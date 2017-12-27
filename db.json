@@ -1,4 +1,5 @@
-[
+{
+"cities":[
   {
     "country": "AD",
     "name": "Sant Julià de Lòria",
@@ -114,3 +115,4 @@
     "lng": "5634141"
   }
 ]
+}
