@@ -1,0 +1,116 @@
+[
+  {
+    "country": "AD",
+    "name": "Sant Julià de Lòria",
+    "id": "4246372",
+    "lng": "149129"
+  },
+  {
+    "country": "AD",
+    "name": "Pas de la Casa",
+    "id": "4254277",
+    "lng": "173361"
+  },
+  {
+    "country": "AD",
+    "name": "Ordino",
+    "id": "4255623",
+    "lng": "153319"
+  },
+  {
+    "country": "AD",
+    "name": "les Escaldes",
+    "id": "4250729",
+    "lng": "153414"
+  },
+  {
+    "country": "AD",
+    "name": "la Massana",
+    "id": "4254499",
+    "lng": "151483"
+  },
+  {
+    "country": "AD",
+    "name": "Encamp",
+    "id": "4253474",
+    "lng": "158014"
+  },
+  {
+    "country": "AD",
+    "name": "Canillo",
+    "id": "425676",
+    "lng": "159756"
+  },
+  {
+    "country": "AD",
+    "name": "Arinsal",
+    "id": "4257205",
+    "lng": "148453"
+  },
+  {
+    "country": "AD",
+    "name": "Andorra la Vella",
+    "id": "4250779",
+    "lng": "152109"
+  },
+  {
+    "country": "AE",
+    "name": "Umm al Qaywayn",
+    "id": "2556473",
+    "lng": "5555517"
+  },
+  {
+    "country": "AE",
+    "name": "Ras al-Khaimah",
+    "id": "2578953",
+    "lng": "559432"
+  },
+  {
+    "country": "AE",
+    "name": "Muzayri‘",
+    "id": "2314355",
+    "lng": "537881"
+  },
+  {
+    "country": "AE",
+    "name": "Khawr Fakkān",
+    "id": "2533132",
+    "lng": "5634199"
+  },
+  {
+    "country": "AE",
+    "name": "Dubai",
+    "id": "250657",
+    "lng": "5517128"
+  },
+  {
+    "country": "AE",
+    "name": "Dibba Al-Fujairah",
+    "id": "2559246",
+    "lng": "5626176"
+  },
+  {
+    "country": "AE",
+    "name": "Dibba Al-Hisn",
+    "id": "2561955",
+    "lng": "5627291"
+  },
+  {
+    "country": "AE",
+    "name": "Sharjah",
+    "id": "2533737",
+    "lng": "5541206"
+  },
+  {
+    "country": "AE",
+    "name": "Ar Ruways",
+    "id": "2411028",
+    "lng": "5273056"
+  },
+  {
+    "country": "AE",
+    "name": "Al Fujayrah",
+    "id": "2511641",
+    "lng": "5634141"
+  }
+]
