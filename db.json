@@ -1,0 +1,7281 @@
+[
+{
+"companies":[
+  {
+    "id": 1,
+    "name": "IFB"
+  },
+  {
+    "id": 2,
+    "name": "Butterfly"
+  },
+  {
+    "id": 3,
+    "name": "CROMTON"
+  },
+  {
+    "id": 4,
+    "name": "HAVELLS APPLIANCES"
+  },
+  {
+    "id": 5,
+    "name": "HAVELLS FAN"
+  },
+  {
+    "id": 6,
+    "name": "Havells Light"
+  },
+  {
+    "id": 7,
+    "name": "Havells Light (Wire)"
+  },
+  {
+    "id": 8,
+    "name": "Havells Personal Growming"
+  },
+  {
+    "id": 9,
+    "name": "HAVELLS WATER HEATER"
+  },
+  {
+    "id": 10,
+    "name": "HAVELLS WIRE"
+  },
+  {
+    "id": 11,
+    "name": "L&T"
+  },
+  {
+    "id": 12,
+    "name": "LUKER FAN"
+  },
+  {
+    "id": 13,
+    "name": "LUKER LIGHT"
+  },
+  {
+    "id": 14,
+    "name": "Luminous"
+  },
+  {
+    "id": 15,
+    "name": "LUMINOUS BULBE"
+  },
+  {
+    "id": 16,
+    "name": "LUMINOUS WIRE"
+  },
+  {
+    "id": 17,
+    "name": "Microteck"
+  },
+  {
+    "id": 18,
+    "name": "SCHINEDER"
+  },
+  {
+    "id": 19,
+    "name": "True Vision"
+  },
+  {
+    "id": 20,
+    "name": "Vego"
+  }
+],
+"group":[
+  {
+    "id": 1,
+    "name": "Aluminium Pressure Cooker",
+    "companyId": 2
+  },
+  {
+    "id": 2,
+    "name": "Chimney",
+    "companyId": 2
+  },
+  {
+    "id": 3,
+    "name": "Cylindrical Electric Cooker",
+    "companyId": 2
+  },
+  {
+    "id": 4,
+    "name": "Cylindrical Rice Cooker",
+    "companyId": 2
+  },
+  {
+    "id": 5,
+    "name": "Electric Water Kettle",
+    "companyId": 2
+  },
+  {
+    "id": 6,
+    "name": "Flask",
+    "companyId": 2
+  },
+  {
+    "id": 7,
+    "name": "Glass Top Stove",
+    "companyId": 2
+  },
+  {
+    "id": 8,
+    "name": "Grinder",
+    "companyId": 2
+  },
+  {
+    "id": 9,
+    "name": "Induction Stove",
+    "companyId": 2
+  },
+  {
+    "id": 10,
+    "name": "Mixer Grinder",
+    "companyId": 2
+  },
+  {
+    "id": 11,
+    "name": "Non Stick Tawa",
+    "companyId": 2
+  },
+  {
+    "id": 12,
+    "name": "SS Gas Stove",
+    "companyId": 2
+  },
+  {
+    "id": 13,
+    "name": "Stainless Steel Pressure Cooker",
+    "companyId": 2
+  },
+  {
+    "id": 14,
+    "name": "Washer",
+    "companyId": 2
+  },
+  {
+    "id": 15,
+    "name": "Crom Iron",
+    "companyId": 3
+  },
+  {
+    "id": 16,
+    "name": "Crom water",
+    "companyId": 3
+  },
+  {
+    "id": 17,
+    "name": "Chopper",
+    "companyId": 4
+  },
+  {
+    "id": 18,
+    "name": "Dry Iron",
+    "companyId": 4
+  },
+  {
+    "id": 19,
+    "name": "Electric Cooker",
+    "companyId": 4
+  },
+  {
+    "id": 20,
+    "name": "Electric Oven",
+    "companyId": 4
+  },
+  {
+    "id": 21,
+    "name": "Hand Blender Smart Chopper",
+    "companyId": 4
+  },
+  {
+    "id": 22,
+    "name": "Induction Cooker",
+    "companyId": 4
+  },
+  {
+    "id": 23,
+    "name": "Juice Extractor",
+    "companyId": 4
+  },
+  {
+    "id": 24,
+    "name": "Kettle",
+    "companyId": 4
+  },
+  {
+    "id": 25,
+    "name": "Mixer Griender",
+    "companyId": 4
+  },
+  {
+    "id": 26,
+    "name": "Sandwich Toaster",
+    "companyId": 4
+  },
+  {
+    "id": 27,
+    "name": "Steam Iron",
+    "companyId": 4
+  },
+  {
+    "id": 28,
+    "name": "Toaster",
+    "companyId": 4
+  },
+  {
+    "id": 29,
+    "name": "CEILING  FAN",
+    "companyId": 5
+  },
+  {
+    "id": 30,
+    "name": "Exhauster",
+    "companyId": 5
+  },
+  {
+    "id": 31,
+    "name": "PEDESTAL FAN",
+    "companyId": 5
+  },
+  {
+    "id": 32,
+    "name": "Personal Fan",
+    "companyId": 5
+  },
+  {
+    "id": 33,
+    "name": "Table Fan",
+    "companyId": 5
+  },
+  {
+    "id": 34,
+    "name": "Wall Fan",
+    "companyId": 5
+  },
+  {
+    "id": 35,
+    "name": "Electronic Ballast Range",
+    "companyId": 6
+  },
+  {
+    "id": 36,
+    "name": "Electronic Range",
+    "companyId": 6
+  },
+  {
+    "id": 37,
+    "name": "Havells MCB",
+    "companyId": 6
+  },
+  {
+    "id": 38,
+    "name": "Havells Cover Plate",
+    "companyId": 6
+  },
+  {
+    "id": 39,
+    "name": "LED Range",
+    "companyId": 6
+  },
+  {
+    "id": 40,
+    "name": "LED Range",
+    "companyId": 7
+  },
+  {
+    "id": 41,
+    "name": "Female Grooming",
+    "companyId": 8
+  },
+  {
+    "id": 42,
+    "name": "Male Grooming",
+    "companyId": 8
+  },
+  {
+    "id": 43,
+    "name": "WATERHEATER",
+    "companyId": 9
+  },
+  {
+    "id": 44,
+    "name": "1.0 SQMM",
+    "companyId": 10
+  },
+  {
+    "id": 45,
+    "name": "1.5 SQMM",
+    "companyId": 10
+  },
+  {
+    "id": 46,
+    "name": "2.5 SQMM",
+    "companyId": 10
+  },
+  {
+    "id": 47,
+    "name": "4.0 SQMM",
+    "companyId": 10
+  },
+  {
+    "id": 48,
+    "name": "10 SQMM (100M)",
+    "companyId": 10
+  },
+  {
+    "id": 49,
+    "name": "1.0 SQMM 180M",
+    "companyId": 10
+  },
+  {
+    "id": 50,
+    "name": "1.5 SQMM (180m)",
+    "companyId": 10
+  },
+  {
+    "id": 51,
+    "name": "2.5 SQMM (180 M)",
+    "companyId": 10
+  },
+  {
+    "id": 52,
+    "name": "4.0 SQMM (180M)",
+    "companyId": 10
+  },
+  {
+    "id": 53,
+    "name": "2C Multi Cable 1",
+    "companyId": 10
+  },
+  {
+    "id": 54,
+    "name": "copper",
+    "companyId": 10
+  },
+  {
+    "id": 55,
+    "name": "AC",
+    "companyId": 1
+  },
+  {
+    "id": 56,
+    "name": "Microwave Oven",
+    "companyId": 1
+  },
+  {
+    "id": 57,
+    "name": "Washing Machine (FL)",
+    "companyId": 1
+  },
+  {
+    "id": 58,
+    "name": "Washing Mechine (TL)",
+    "companyId": 1
+  },
+  {
+    "id": 59,
+    "name": "Dryer",
+    "companyId": 1
+  },
+  {
+    "id": 60,
+    "name": "L&T Bell",
+    "companyId": 11
+  },
+  {
+    "id": 61,
+    "name": "L&T Cable outlet",
+    "companyId": 11
+  },
+  {
+    "id": 62,
+    "name": "L&T DB",
+    "companyId": 11
+  },
+  {
+    "id": 63,
+    "name": "L&T Indicatore",
+    "companyId": 11
+  },
+  {
+    "id": 64,
+    "name": "L&T MCB",
+    "companyId": 11
+  },
+  {
+    "id": 65,
+    "name": "L&T Metal Box",
+    "companyId": 11
+  },
+  {
+    "id": 66,
+    "name": "L&T Cover Plate",
+    "companyId": 11
+  },
+  {
+    "id": 67,
+    "name": "L&T Switch",
+    "companyId": 11
+  },
+  {
+    "id": 68,
+    "name": "L&T Plug",
+    "companyId": 11
+  },
+  {
+    "id": 69,
+    "name": "L&T RCCB",
+    "companyId": 11
+  },
+  {
+    "id": 70,
+    "name": "L&T REgulator",
+    "companyId": 11
+  },
+  {
+    "id": 71,
+    "name": "L&T - ROTRI",
+    "companyId": 11
+  },
+  {
+    "id": 72,
+    "name": "L&T Socket",
+    "companyId": 11
+  },
+  {
+    "id": 73,
+    "name": "L&T Isolator",
+    "companyId": 11
+  },
+  {
+    "id": 74,
+    "name": "L&T Switch",
+    "companyId": 11
+  },
+  {
+    "id": 75,
+    "name": "Exhaust",
+    "companyId": 12
+  },
+  {
+    "id": 76,
+    "name": "Luker Pedestal",
+    "companyId": 12
+  },
+  {
+    "id": 77,
+    "name": "Luker Wall",
+    "companyId": 12
+  },
+  {
+    "id": 78,
+    "name": "CEILING LIGHT",
+    "companyId": 13
+  },
+  {
+    "id": 79,
+    "name": "LED BULBE & TUBES",
+    "companyId": 13
+  },
+  {
+    "id": 80,
+    "name": "LED CONCEALED SPOT LIGHT / LED COB",
+    "companyId": 13
+  },
+  {
+    "id": 81,
+    "name": "LED OUTDOOR \\ GARDEN",
+    "companyId": 13
+  },
+  {
+    "id": 82,
+    "name": "LED SLIM / SURFACE PANEL",
+    "companyId": 13
+  },
+  {
+    "id": 83,
+    "name": "LED STREETt & FLOOD & HIGH BAY LIGHT",
+    "companyId": 13
+  },
+  {
+    "id": 84,
+    "name": "LED STRIP / STRIP DRIVER",
+    "companyId": 13
+  },
+  {
+    "id": 85,
+    "name": "MIRROR OPTICS / DOWN LIGHTS",
+    "companyId": 13
+  },
+  {
+    "id": 86,
+    "name": "Celing Fan",
+    "companyId": 14
+  },
+  {
+    "id": 87,
+    "name": "Exhauster Fan",
+    "companyId": 14
+  },
+  {
+    "id": 88,
+    "name": "Pedestal Fan",
+    "companyId": 14
+  },
+  {
+    "id": 89,
+    "name": "Personal Fan",
+    "companyId": 14
+  },
+  {
+    "id": 90,
+    "name": "Table Fan",
+    "companyId": 14
+  },
+  {
+    "id": 91,
+    "name": "Wall Fan",
+    "companyId": 14
+  },
+  {
+    "id": 92,
+    "name": "LED BULBE",
+    "companyId": 15
+  },
+  {
+    "id": 93,
+    "name": "FR1CMS10 SQMM",
+    "companyId": 16
+  },
+  {
+    "id": 94,
+    "name": "FR1CMS 1.5",
+    "companyId": 16
+  },
+  {
+    "id": 95,
+    "name": "FR1CMS 6.0",
+    "companyId": 16
+  },
+  {
+    "id": 96,
+    "name": "FRLSH 1.0",
+    "companyId": 16
+  },
+  {
+    "id": 97,
+    "name": "FRLSH 1.5",
+    "companyId": 16
+  },
+  {
+    "id": 98,
+    "name": "Stabilzer",
+    "companyId": 17
+  },
+  {
+    "id": 99,
+    "name": "DB Box",
+    "companyId": 18
+  },
+  {
+    "id": 100,
+    "name": "DB Box and Swithc Metal Box",
+    "companyId": 18
+  },
+  {
+    "id": 101,
+    "name": "Grid & Cover Frame",
+    "companyId": 18
+  },
+  {
+    "id": 102,
+    "name": "Isolater",
+    "companyId": 18
+  },
+  {
+    "id": 103,
+    "name": "MCB",
+    "companyId": 18
+  },
+  {
+    "id": 104,
+    "name": "Metal Box",
+    "companyId": 18
+  },
+  {
+    "id": 105,
+    "name": "RCCB",
+    "companyId": 18
+  },
+  {
+    "id": 106,
+    "name": "Regulatore",
+    "companyId": 18
+  },
+  {
+    "id": 107,
+    "name": "Socket",
+    "companyId": 18
+  },
+  {
+    "id": 108,
+    "name": "Switch",
+    "companyId": 18
+  },
+  {
+    "id": 109,
+    "name": "Home Theatre",
+    "companyId": 19
+  },
+  {
+    "id": 110,
+    "name": "LED TV",
+    "companyId": 19
+  },
+  {
+    "id": 111,
+    "name": "Smart TV",
+    "companyId": 19
+  },
+  {
+    "id": 112,
+    "name": "Air Cooler",
+    "companyId": 20
+  }
+],
+"products":[
+  {
+    "id": 1,
+    "name": "B - Elegant Plus - 3L PC",
+    "groupId": 1,
+    "companyId": 2
+  },
+  {
+    "id": 2,
+    "name": "B -  Elegant Plus - 5L PC",
+    "groupId": 1,
+    "companyId": 2
+  },
+  {
+    "id": 3,
+    "name": "B - Pearl Plus - 3L PC",
+    "groupId": 1,
+    "companyId": 2
+  },
+  {
+    "id": 4,
+    "name": "B - Pearl Plus 5Ltr Pressure Cooker -1956",
+    "groupId": 1,
+    "companyId": 2
+  },
+  {
+    "id": 5,
+    "name": "B - Std - 10L Aluminium PC",
+    "groupId": 1,
+    "companyId": 2
+  },
+  {
+    "id": 6,
+    "name": "B - Std - 3L PC",
+    "groupId": 1,
+    "companyId": 2
+  },
+  {
+    "id": 7,
+    "name": "B - Std - 5L PC",
+    "groupId": 1,
+    "companyId": 2
+  },
+  {
+    "id": 8,
+    "name": "B - Std - 7.5L Aluminium PC",
+    "groupId": 1,
+    "companyId": 2
+  },
+  {
+    "id": 9,
+    "name": "B - Std Plus - 10L PC",
+    "groupId": 1,
+    "companyId": 2
+  },
+  {
+    "id": 10,
+    "name": "B - Std Plus - 12L PC",
+    "groupId": 1,
+    "companyId": 2
+  },
+  {
+    "id": 11,
+    "name": "B - Std Plus - 3L PC",
+    "groupId": 1,
+    "companyId": 2
+  },
+  {
+    "id": 12,
+    "name": "B - Std Plus - 5L PC",
+    "groupId": 1,
+    "companyId": 2
+  },
+  {
+    "id": 13,
+    "name": "B - Std Plus - 7.5L PC",
+    "groupId": 1,
+    "companyId": 2
+  },
+  {
+    "id": 14,
+    "name": "B - Superb Plus 3ltr Pressure Cooker -2026",
+    "groupId": 1,
+    "companyId": 2
+  },
+  {
+    "id": 15,
+    "name": "B - Superb Plus 5Ltr Pressure Cooker -2559",
+    "groupId": 1,
+    "companyId": 2
+  },
+  {
+    "id": 16,
+    "name": "B -  Ace Chimney",
+    "groupId": 2,
+    "companyId": 2
+  },
+  {
+    "id": 17,
+    "name": "B - Black Pearl (Range Hood) Chimney",
+    "groupId": 2,
+    "companyId": 2
+  },
+  {
+    "id": 18,
+    "name": "B - Curve - Chimney",
+    "groupId": 2,
+    "companyId": 2
+  },
+  {
+    "id": 19,
+    "name": "B - Desire - Chimney",
+    "groupId": 2,
+    "companyId": 2
+  },
+  {
+    "id": 20,
+    "name": "B - Jet - Chimney",
+    "groupId": 2,
+    "companyId": 2
+  },
+  {
+    "id": 21,
+    "name": "B - Matchless Chimney",
+    "groupId": 2,
+    "companyId": 2
+  },
+  {
+    "id": 22,
+    "name": "B - Reflection - Chimney",
+    "groupId": 2,
+    "companyId": 2
+  },
+  {
+    "id": 23,
+    "name": "B - Rhino Chimney",
+    "groupId": 2,
+    "companyId": 2
+  },
+  {
+    "id": 24,
+    "name": "B - Rhino Plus Chimney- Black",
+    "groupId": 2,
+    "companyId": 2
+  },
+  {
+    "id": 25,
+    "name": "B - Splendid Chimney - Black",
+    "groupId": 2,
+    "companyId": 2
+  },
+  {
+    "id": 26,
+    "name": "B - 3P007 - 2.8L Deluxe Ec",
+    "groupId": 3,
+    "companyId": 2
+  },
+  {
+    "id": 27,
+    "name": "B - KRC 07-  1.0L Classical EC",
+    "groupId": 3,
+    "companyId": 2
+  },
+  {
+    "id": 28,
+    "name": "B - KRC 08- 0.6L Cylindrical EC",
+    "groupId": 3,
+    "companyId": 2
+  },
+  {
+    "id": 29,
+    "name": "B -  KRC 22 - 2.8L Cylindrical EC",
+    "groupId": 3,
+    "companyId": 2
+  },
+  {
+    "id": 30,
+    "name": "B - Aura 1.8 Ltr Cylindrical R C",
+    "groupId": 4,
+    "companyId": 2
+  },
+  {
+    "id": 31,
+    "name": "B - Aura 2.8 Ltr Cylindrical R C",
+    "groupId": 4,
+    "companyId": 2
+  },
+  {
+    "id": 32,
+    "name": "B -  Blossom - 1.8L Cylindrical RC",
+    "groupId": 4,
+    "companyId": 2
+  },
+  {
+    "id": 33,
+    "name": "B - Iris 1.8 Ltr Cylindrical R C",
+    "groupId": 4,
+    "companyId": 2
+  },
+  {
+    "id": 34,
+    "name": "B - Iris 2.8 Ltr Cylindrical RC",
+    "groupId": 4,
+    "companyId": 2
+  },
+  {
+    "id": 35,
+    "name": "B - Jade - 1.8Ltr Cylindrical RC",
+    "groupId": 4,
+    "companyId": 2
+  },
+  {
+    "id": 36,
+    "name": "B - Raga - 1.8L Cylindrical RC",
+    "groupId": 4,
+    "companyId": 2
+  },
+  {
+    "id": 37,
+    "name": "B - Streak 1.8 Ltr Cylindrical R C",
+    "groupId": 4,
+    "companyId": 2
+  },
+  {
+    "id": 38,
+    "name": "B - Streak 2.8 Ltr Cylindrical RC",
+    "groupId": 4,
+    "companyId": 2
+  },
+  {
+    "id": 39,
+    "name": "B - Water Kettle 0.5L",
+    "groupId": 5,
+    "companyId": 2
+  },
+  {
+    "id": 40,
+    "name": "B - Gangothri 300 ML",
+    "groupId": 6,
+    "companyId": 2
+  },
+  {
+    "id": 41,
+    "name": "B - Gangothri 500 ML",
+    "groupId": 6,
+    "companyId": 2
+  },
+  {
+    "id": 42,
+    "name": "B - Gangothri 600 ML",
+    "groupId": 6,
+    "companyId": 2
+  },
+  {
+    "id": 43,
+    "name": "B - Gangothri 900 ML",
+    "groupId": 6,
+    "companyId": 2
+  },
+  {
+    "id": 44,
+    "name": "B - Ocean 1000 ML",
+    "groupId": 6,
+    "companyId": 2
+  },
+  {
+    "id": 45,
+    "name": "B - Tide 1000 ML",
+    "groupId": 6,
+    "companyId": 2
+  },
+  {
+    "id": 46,
+    "name": "B - Tide 300 ML",
+    "groupId": 6,
+    "companyId": 2
+  },
+  {
+    "id": 47,
+    "name": "B - Tide 500 Ml",
+    "groupId": 6,
+    "companyId": 2
+  },
+  {
+    "id": 48,
+    "name": "B - Tide 750 ML",
+    "groupId": 6,
+    "companyId": 2
+  },
+  {
+    "id": 49,
+    "name": "B - Jet - 2B",
+    "groupId": 7,
+    "companyId": 2
+  },
+  {
+    "id": 50,
+    "name": "B - Jet - 3B",
+    "groupId": 7,
+    "companyId": 2
+  },
+  {
+    "id": 51,
+    "name": "B - Prism 2B",
+    "groupId": 7,
+    "companyId": 2
+  },
+  {
+    "id": 52,
+    "name": "B - Prism - 3B",
+    "groupId": 7,
+    "companyId": 2
+  },
+  {
+    "id": 53,
+    "name": "B - Prism 4B",
+    "groupId": 7,
+    "companyId": 2
+  },
+  {
+    "id": 54,
+    "name": "B - Prism Plus - 2B",
+    "groupId": 7,
+    "companyId": 2
+  },
+  {
+    "id": 55,
+    "name": "B - Prism Plus - 3B",
+    "groupId": 7,
+    "companyId": 2
+  },
+  {
+    "id": 56,
+    "name": "B - Reflection - 2B",
+    "groupId": 7,
+    "companyId": 2
+  },
+  {
+    "id": 57,
+    "name": "B - Reflection - 2B A.I",
+    "groupId": 7,
+    "companyId": 2
+  },
+  {
+    "id": 58,
+    "name": "B - Reflection - 2 B Spl Edition - Flame",
+    "groupId": 7,
+    "companyId": 2
+  },
+  {
+    "id": 59,
+    "name": "B - Reflection - 3B",
+    "groupId": 7,
+    "companyId": 2
+  },
+  {
+    "id": 60,
+    "name": "B - Reflection - 3B Spl Edition - Pine",
+    "groupId": 7,
+    "companyId": 2
+  },
+  {
+    "id": 61,
+    "name": "B - Reflection Plus- 2B",
+    "groupId": 7,
+    "companyId": 2
+  },
+  {
+    "id": 62,
+    "name": "B - Reflection Plus - 3B",
+    "groupId": 7,
+    "companyId": 2
+  },
+  {
+    "id": 63,
+    "name": "B - Signature - 2B Pink",
+    "groupId": 7,
+    "companyId": 2
+  },
+  {
+    "id": 64,
+    "name": "B - Signature 3/B - Red",
+    "groupId": 7,
+    "companyId": 2
+  },
+  {
+    "id": 65,
+    "name": "B - Signature 4B - Reg",
+    "groupId": 7,
+    "companyId": 2
+  },
+  {
+    "id": 66,
+    "name": "B - Signature Plus - 2B Red",
+    "groupId": 7,
+    "companyId": 2
+  },
+  {
+    "id": 67,
+    "name": "B - Signature Plus - 3B - Red",
+    "groupId": 7,
+    "companyId": 2
+  },
+  {
+    "id": 68,
+    "name": "B - Spectra 2B - Pink",
+    "groupId": 7,
+    "companyId": 2
+  },
+  {
+    "id": 69,
+    "name": "B - Spectra - 3B - Pink",
+    "groupId": 7,
+    "companyId": 2
+  },
+  {
+    "id": 70,
+    "name": "B - Spectra Plus - 2B - Pink",
+    "groupId": 7,
+    "companyId": 2
+  },
+  {
+    "id": 71,
+    "name": "B - Spectra Plus - 3B - Red",
+    "groupId": 7,
+    "companyId": 2
+  },
+  {
+    "id": 72,
+    "name": "B - Matchless Plus - 2.0Ltrs TTWG",
+    "groupId": 8,
+    "companyId": 2
+  },
+  {
+    "id": 73,
+    "name": "B - Matchless Pro - 2.0Ltrs TTWG",
+    "groupId": 8,
+    "companyId": 2
+  },
+  {
+    "id": 74,
+    "name": "B - Rhino - 2.0Ltr TTWG",
+    "groupId": 8,
+    "companyId": 2
+  },
+  {
+    "id": 75,
+    "name": "B - Rhino Plus - 2.0Ltrs TTWG",
+    "groupId": 8,
+    "companyId": 2
+  },
+  {
+    "id": 76,
+    "name": "B - Rhino Plus 2.0 (V2) TTWG",
+    "groupId": 8,
+    "companyId": 2
+  },
+  {
+    "id": 77,
+    "name": "B - Ace G2 PH",
+    "groupId": 9,
+    "companyId": 2
+  },
+  {
+    "id": 78,
+    "name": "B - Ivory PH",
+    "groupId": 9,
+    "companyId": 2
+  },
+  {
+    "id": 79,
+    "name": "B - Ivory Plus PH",
+    "groupId": 9,
+    "companyId": 2
+  },
+  {
+    "id": 80,
+    "name": "B - Jet PH",
+    "groupId": 9,
+    "companyId": 2
+  },
+  {
+    "id": 81,
+    "name": "B - Rhino PH",
+    "groupId": 9,
+    "companyId": 2
+  },
+  {
+    "id": 82,
+    "name": "B - Sleek Ultra Slim PH",
+    "groupId": 9,
+    "companyId": 2
+  },
+  {
+    "id": 83,
+    "name": "B - Standard G2 PH",
+    "groupId": 9,
+    "companyId": 2
+  },
+  {
+    "id": 84,
+    "name": "B - Desire 3J HP Red MG",
+    "groupId": 10,
+    "companyId": 2
+  },
+  {
+    "id": 85,
+    "name": "B - Desire 4J 1 HP Red MG",
+    "groupId": 10,
+    "companyId": 2
+  },
+  {
+    "id": 86,
+    "name": "B - Desire SS 3 Jar MG",
+    "groupId": 10,
+    "companyId": 2
+  },
+  {
+    "id": 87,
+    "name": "B - Grand -Blue 500w",
+    "groupId": 10,
+    "companyId": 2
+  },
+  {
+    "id": 88,
+    "name": "B - Grand - Cherry Red MG",
+    "groupId": 10,
+    "companyId": 2
+  },
+  {
+    "id": 89,
+    "name": "B - Grand Plus 3J - Violet  MG",
+    "groupId": 10,
+    "companyId": 2
+  },
+  {
+    "id": 90,
+    "name": "B - Grand Turbo - Voilet MG",
+    "groupId": 10,
+    "companyId": 2
+  },
+  {
+    "id": 91,
+    "name": "B - Ivory - 600w  MG",
+    "groupId": 10,
+    "companyId": 2
+  },
+  {
+    "id": 92,
+    "name": "B - Jet 3Jar 750w MG",
+    "groupId": 10,
+    "companyId": 2
+  },
+  {
+    "id": 93,
+    "name": "B - Jet 4Jar 750W MG",
+    "groupId": 10,
+    "companyId": 2
+  },
+  {
+    "id": 94,
+    "name": "B - Matchless - 110V MG",
+    "groupId": 10,
+    "companyId": 2
+  },
+  {
+    "id": 95,
+    "name": "B - Matchless MG 3J",
+    "groupId": 10,
+    "companyId": 2
+  },
+  {
+    "id": 96,
+    "name": "B - Matchless MG 4J",
+    "groupId": 10,
+    "companyId": 2
+  },
+  {
+    "id": 97,
+    "name": "B - Mixer Grinder Pebble Candy Pink",
+    "groupId": 10,
+    "companyId": 2
+  },
+  {
+    "id": 98,
+    "name": "B - Mixer Grinder Spectra 3j -Red",
+    "groupId": 10,
+    "companyId": 2
+  },
+  {
+    "id": 99,
+    "name": "B - Pebble-Candy Pink M G",
+    "groupId": 10,
+    "companyId": 2
+  },
+  {
+    "id": 100,
+    "name": "B - Pebble - LemonYellow MG",
+    "groupId": 10,
+    "companyId": 2
+  },
+  {
+    "id": 101,
+    "name": "B - Pebble Plus 750w MG",
+    "groupId": 10,
+    "companyId": 2
+  },
+  {
+    "id": 102,
+    "name": "B - Rhino 2 Speed - 550w MG",
+    "groupId": 10,
+    "companyId": 2
+  },
+  {
+    "id": 103,
+    "name": "B - Spectra - Red 3 Jar MG",
+    "groupId": 10,
+    "companyId": 2
+  },
+  {
+    "id": 104,
+    "name": "B - Spectra - Red MG 4 Jar",
+    "groupId": 10,
+    "companyId": 2
+  },
+  {
+    "id": 105,
+    "name": "B - Splendid - Candy Pink MG",
+    "groupId": 10,
+    "companyId": 2
+  },
+  {
+    "id": 106,
+    "name": "B - Splendid-Lemon Yellow MG",
+    "groupId": 10,
+    "companyId": 2
+  },
+  {
+    "id": 107,
+    "name": "B - Granza Fry Pan 200 mm",
+    "groupId": 11,
+    "companyId": 2
+  },
+  {
+    "id": 108,
+    "name": "B - Granza Fry Pan 240MM",
+    "groupId": 11,
+    "companyId": 2
+  },
+  {
+    "id": 109,
+    "name": "B - Granza Fry Pan 280mm",
+    "groupId": 11,
+    "companyId": 2
+  },
+  {
+    "id": 110,
+    "name": "B - Granza Kcp3 (Kitchen Combo Pack)",
+    "groupId": 11,
+    "companyId": 2
+  },
+  {
+    "id": 111,
+    "name": "B - Granza Kodai with Glass Lid 240mm",
+    "groupId": 11,
+    "companyId": 2
+  },
+  {
+    "id": 112,
+    "name": "B - Granza Milk Pan with Glass Lid 160mm",
+    "groupId": 11,
+    "companyId": 2
+  },
+  {
+    "id": 113,
+    "name": "B - Granza Omni Tawa 250 mm",
+    "groupId": 11,
+    "companyId": 2
+  },
+  {
+    "id": 114,
+    "name": "B - Granza Omni Tawa 280 mm",
+    "groupId": 11,
+    "companyId": 2
+  },
+  {
+    "id": 115,
+    "name": "B - Granza Omni Tawa 300 mm",
+    "groupId": 11,
+    "companyId": 2
+  },
+  {
+    "id": 116,
+    "name": "B - Granze Kadai with Glass Lid 280MM",
+    "groupId": 11,
+    "companyId": 2
+  },
+  {
+    "id": 117,
+    "name": "B - Kcp3 Nonstick Combo Pack",
+    "groupId": 11,
+    "companyId": 2
+  },
+  {
+    "id": 118,
+    "name": "B - Kcp6 Nonstick Combo Pack",
+    "groupId": 11,
+    "companyId": 2
+  },
+  {
+    "id": 119,
+    "name": "B - Kroma DX - KCP2",
+    "groupId": 11,
+    "companyId": 2
+  },
+  {
+    "id": 120,
+    "name": "B- Kroma DX KCP 3",
+    "groupId": 11,
+    "companyId": 2
+  },
+  {
+    "id": 121,
+    "name": "B - Raga Appachatty 200 mm",
+    "groupId": 11,
+    "companyId": 2
+  },
+  {
+    "id": 122,
+    "name": "B - Raga Concave Tawa 260 mm",
+    "groupId": 11,
+    "companyId": 2
+  },
+  {
+    "id": 123,
+    "name": "B - Raga Concave Tawa 280mm",
+    "groupId": 11,
+    "companyId": 2
+  },
+  {
+    "id": 124,
+    "name": "B - Raga Concave Tawa 300 mm",
+    "groupId": 11,
+    "companyId": 2
+  },
+  {
+    "id": 125,
+    "name": "B - Raga Deep Appachatty 200mm",
+    "groupId": 11,
+    "companyId": 2
+  },
+  {
+    "id": 126,
+    "name": "B - Raga Fry Pan 240 mm",
+    "groupId": 11,
+    "companyId": 2
+  },
+  {
+    "id": 127,
+    "name": "B - Raga Multi Utility Round Tawa",
+    "groupId": 11,
+    "companyId": 2
+  },
+  {
+    "id": 128,
+    "name": "B - Raga Non Stick Omni Tawa 310mm -",
+    "groupId": 11,
+    "companyId": 2
+  },
+  {
+    "id": 129,
+    "name": "B - Raga Nonstick Round Base Kadai 200 mm",
+    "groupId": 11,
+    "companyId": 2
+  },
+  {
+    "id": 130,
+    "name": "B - Raga Nonstick Round Base Kadai 250mm",
+    "groupId": 11,
+    "companyId": 2
+  },
+  {
+    "id": 131,
+    "name": "B - Raga Omni Tawa 250mm",
+    "groupId": 11,
+    "companyId": 2
+  },
+  {
+    "id": 132,
+    "name": "B - Raga Omni Tawa 280 mm",
+    "groupId": 11,
+    "companyId": 2
+  },
+  {
+    "id": 133,
+    "name": "B - Raga Omni Tawa 300MM",
+    "groupId": 11,
+    "companyId": 2
+  },
+  {
+    "id": 134,
+    "name": "B - Raga Paniyarakkal 200mm",
+    "groupId": 11,
+    "companyId": 2
+  },
+  {
+    "id": 135,
+    "name": "B - Raga Paniyarkkal 250mm",
+    "groupId": 11,
+    "companyId": 2
+  },
+  {
+    "id": 136,
+    "name": "B - Raga Tadka Pan 130mm",
+    "groupId": 11,
+    "companyId": 2
+  },
+  {
+    "id": 137,
+    "name": "B - Std - 5.5L Senior Pan",
+    "groupId": 11,
+    "companyId": 2
+  },
+  {
+    "id": 138,
+    "name": "B - Std Plus - 5.5L Senior P.Pan",
+    "groupId": 11,
+    "companyId": 2
+  },
+  {
+    "id": 139,
+    "name": "Kroma 250mm Omni Tawa",
+    "groupId": 11,
+    "companyId": 2
+  },
+  {
+    "id": 140,
+    "name": "Kroma 275mm Omni Tawa",
+    "groupId": 11,
+    "companyId": 2
+  },
+  {
+    "id": 141,
+    "name": "Kroma 300mm Omni Tawa",
+    "groupId": 11,
+    "companyId": 2
+  },
+  {
+    "id": 142,
+    "name": "B -  Ace - 2B",
+    "groupId": 12,
+    "companyId": 2
+  },
+  {
+    "id": 143,
+    "name": "B - B2000 2B Lpg Stove Mrp :",
+    "groupId": 12,
+    "companyId": 2
+  },
+  {
+    "id": 144,
+    "name": "B - Blaze - 2B",
+    "groupId": 12,
+    "companyId": 2
+  },
+  {
+    "id": 145,
+    "name": "B - Blaze - 3B",
+    "groupId": 12,
+    "companyId": 2
+  },
+  {
+    "id": 146,
+    "name": "B - Blaze 4/ B Lpg Stove -7614",
+    "groupId": 12,
+    "companyId": 2
+  },
+  {
+    "id": 147,
+    "name": "B - Friendly - 2B",
+    "groupId": 12,
+    "companyId": 2
+  },
+  {
+    "id": 148,
+    "name": "B - Friendly - 3B",
+    "groupId": 12,
+    "companyId": 2
+  },
+  {
+    "id": 149,
+    "name": "B - Friendly - 3B A.I",
+    "groupId": 12,
+    "companyId": 2
+  },
+  {
+    "id": 150,
+    "name": "B -  Rhino - 2B",
+    "groupId": 12,
+    "companyId": 2
+  },
+  {
+    "id": 151,
+    "name": "B - Blue Line - 3L PC",
+    "groupId": 13,
+    "companyId": 2
+  },
+  {
+    "id": 152,
+    "name": "B - Blue Line - 5L PC",
+    "groupId": 13,
+    "companyId": 2
+  },
+  {
+    "id": 153,
+    "name": "B - Blue Line - 7.5L PC",
+    "groupId": 13,
+    "companyId": 2
+  },
+  {
+    "id": 154,
+    "name": "B - Curve - 2L PC",
+    "groupId": 13,
+    "companyId": 2
+  },
+  {
+    "id": 155,
+    "name": "B - Curve - 3L PC",
+    "groupId": 13,
+    "companyId": 2
+  },
+  {
+    "id": 156,
+    "name": "B - Curve - 5L PC",
+    "groupId": 13,
+    "companyId": 2
+  },
+  {
+    "id": 157,
+    "name": "B - Washer 9 KG ST -9000S",
+    "groupId": 14,
+    "companyId": 2
+  },
+  {
+    "id": 158,
+    "name": "B - Washer 9K ST - 7000G",
+    "groupId": 14,
+    "companyId": 2
+  },
+  {
+    "id": 159,
+    "name": "B - Washer 9K St - 7000S",
+    "groupId": 14,
+    "companyId": 2
+  },
+  {
+    "id": 160,
+    "name": "CI - Acgei - PD Plus Dry Iron",
+    "groupId": 15,
+    "companyId": 3
+  },
+  {
+    "id": 161,
+    "name": "CI - Acgei - RD IRON",
+    "groupId": 15,
+    "companyId": 3
+  },
+  {
+    "id": 162,
+    "name": "CH - Immersion IHL 102 ( WH 1500W )",
+    "groupId": 16,
+    "companyId": 3
+  },
+  {
+    "id": 163,
+    "name": "CH - Immersion IHL 102 ( WH 1000W )",
+    "groupId": 16,
+    "companyId": 3
+  },
+  {
+    "id": 164,
+    "name": "CH - AIWH03PC1 - IVY 3L",
+    "groupId": 16,
+    "companyId": 3
+  },
+  {
+    "id": 165,
+    "name": "CH - ASWH806 - IVY 6L",
+    "groupId": 16,
+    "companyId": 3
+  },
+  {
+    "id": 166,
+    "name": "CH - ASWH610A - IVY 10L",
+    "groupId": 16,
+    "companyId": 3
+  },
+  {
+    "id": 167,
+    "name": "CH - ASWH810 - IVY 10L",
+    "groupId": 16,
+    "companyId": 3
+  },
+  {
+    "id": 168,
+    "name": "CH - ASWH815 - IVY - 15L",
+    "groupId": 16,
+    "companyId": 3
+  },
+  {
+    "id": 169,
+    "name": "CH - AHWH825 - IVY - 25L",
+    "groupId": 16,
+    "companyId": 3
+  },
+  {
+    "id": 170,
+    "name": "CH - ASWH1515  SWH 15 L",
+    "groupId": 16,
+    "companyId": 3
+  },
+  {
+    "id": 171,
+    "name": "CH - ASWH1525 - WHT 25 L",
+    "groupId": 16,
+    "companyId": 3
+  },
+  {
+    "id": 172,
+    "name": "H - Power Blend with Chopper White (600 W)",
+    "groupId": 17,
+    "companyId": 4
+  },
+  {
+    "id": 173,
+    "name": "H - Super Chopper (720 ML)",
+    "groupId": 17,
+    "companyId": 4
+  },
+  {
+    "id": 174,
+    "name": "H - Dry Iron Adore (Beige)",
+    "groupId": 18,
+    "companyId": 4
+  },
+  {
+    "id": 175,
+    "name": "H - Dry Iron Adore Heritage Blue",
+    "groupId": 18,
+    "companyId": 4
+  },
+  {
+    "id": 176,
+    "name": "H - DRY IRON ADORE PEACH 1100W",
+    "groupId": 18,
+    "companyId": 4
+  },
+  {
+    "id": 177,
+    "name": "H- Dry Iron Adore Sea Green 1100W",
+    "groupId": 18,
+    "companyId": 4
+  },
+  {
+    "id": 178,
+    "name": "H - Dry Iron Era (1000 W)",
+    "groupId": 18,
+    "companyId": 4
+  },
+  {
+    "id": 179,
+    "name": "H - Dry Iron Era Blue and White",
+    "groupId": 18,
+    "companyId": 4
+  },
+  {
+    "id": 180,
+    "name": "H - Dry Iron Era Purple and White",
+    "groupId": 18,
+    "companyId": 4
+  },
+  {
+    "id": 181,
+    "name": "H - Dry Iron Evo (1100 W)",
+    "groupId": 18,
+    "companyId": 4
+  },
+  {
+    "id": 182,
+    "name": "H - Dry Iron Evolin (1100W)",
+    "groupId": 18,
+    "companyId": 4
+  },
+  {
+    "id": 183,
+    "name": "H - Dry Iron Jio Blue (1000 W)",
+    "groupId": 18,
+    "companyId": 4
+  },
+  {
+    "id": 184,
+    "name": "H - Dry Iron Jio Heritage Blue (1000 W)",
+    "groupId": 18,
+    "companyId": 4
+  },
+  {
+    "id": 185,
+    "name": "H - Dry Iron Jio Heritage Purple (1000 W)",
+    "groupId": 18,
+    "companyId": 4
+  },
+  {
+    "id": 186,
+    "name": "H - Dry Iron Jio Pink (1000 W)",
+    "groupId": 18,
+    "companyId": 4
+  },
+  {
+    "id": 187,
+    "name": "H- Dry Iron Oro Grey (1000 W)",
+    "groupId": 18,
+    "companyId": 4
+  },
+  {
+    "id": 188,
+    "name": "H - DRY IRON ORO HERITAGE GREY AND WHITE",
+    "groupId": 18,
+    "companyId": 4
+  },
+  {
+    "id": 189,
+    "name": "H - Dry Iron Oro Violet (1000 W)",
+    "groupId": 18,
+    "companyId": 4
+  },
+  {
+    "id": 190,
+    "name": "H - E Cook Rice Cooker 2 Bowl (700 W)- 1.8 O",
+    "groupId": 19,
+    "companyId": 4
+  },
+  {
+    "id": 191,
+    "name": "H - Max Cook Plus White (1000 W)- 2.8 CL",
+    "groupId": 19,
+    "companyId": 4
+  },
+  {
+    "id": 192,
+    "name": "H - Rice Cooker Max Cook 1.8 CL",
+    "groupId": 19,
+    "companyId": 4
+  },
+  {
+    "id": 193,
+    "name": "H - Riso Rice Cooker (700 W)- 1.8 OL",
+    "groupId": 19,
+    "companyId": 4
+  },
+  {
+    "id": 194,
+    "name": "H - OTG 18 Rss_6195",
+    "groupId": 20,
+    "companyId": 4
+  },
+  {
+    "id": 195,
+    "name": "H - OTG 24 Rpss",
+    "groupId": 20,
+    "companyId": 4
+  },
+  {
+    "id": 196,
+    "name": "H - OTG 24 Rss",
+    "groupId": 20,
+    "companyId": 4
+  },
+  {
+    "id": 197,
+    "name": "H - OTG 28 Rss",
+    "groupId": 20,
+    "companyId": 4
+  },
+  {
+    "id": 198,
+    "name": "H - OTG 35 Rss Premia MX (1500 W)",
+    "groupId": 20,
+    "companyId": 4
+  },
+  {
+    "id": 199,
+    "name": "H - Hand Blender Super Blend Red (400 W)",
+    "groupId": 21,
+    "companyId": 4
+  },
+  {
+    "id": 200,
+    "name": "H - Pro Blender with Chopper Red",
+    "groupId": 21,
+    "companyId": 4
+  },
+  {
+    "id": 201,
+    "name": "H-Convenio Fp Black 500W",
+    "groupId": 22,
+    "companyId": 4
+  },
+  {
+    "id": 202,
+    "name": "H - Induction Cooker Insta Cook Wop- OT",
+    "groupId": 22,
+    "companyId": 4
+  },
+  {
+    "id": 203,
+    "name": "H - Induction Cooker- PT",
+    "groupId": 22,
+    "companyId": 4
+  },
+  {
+    "id": 204,
+    "name": "H - Induction Cook Top- ET-X",
+    "groupId": 22,
+    "companyId": 4
+  },
+  {
+    "id": 205,
+    "name": "H - Induction CookTop- ST-X",
+    "groupId": 22,
+    "companyId": 4
+  },
+  {
+    "id": 206,
+    "name": "H - Induction Insta Cook- FT",
+    "groupId": 22,
+    "companyId": 4
+  },
+  {
+    "id": 207,
+    "name": "H - Citrus Press Juicer Black(30W)",
+    "groupId": 23,
+    "companyId": 4
+  },
+  {
+    "id": 208,
+    "name": "H -Citrus Press Juicer White(30W)- 0.5L",
+    "groupId": 23,
+    "companyId": 4
+  },
+  {
+    "id": 209,
+    "name": "H - Endura Juicer Ivory (500 W)",
+    "groupId": 23,
+    "companyId": 4
+  },
+  {
+    "id": 210,
+    "name": "H - Endura Juicer Mix Grinder 2 Jar White (500 W)",
+    "groupId": 23,
+    "companyId": 4
+  },
+  {
+    "id": 211,
+    "name": "H - Endura Juicer Mix Grinder 3 Jar White (500 W)",
+    "groupId": 23,
+    "companyId": 4
+  },
+  {
+    "id": 212,
+    "name": "H - Aqua White (1500w)-1L",
+    "groupId": 24,
+    "companyId": 4
+  },
+  {
+    "id": 213,
+    "name": "H - Crystal Tea-Coffee Maker- (0.7L)",
+    "groupId": 24,
+    "companyId": 4
+  },
+  {
+    "id": 214,
+    "name": "H - Drip Cafe-N Coffee Maker 300w",
+    "groupId": 24,
+    "companyId": 4
+  },
+  {
+    "id": 215,
+    "name": "H - Drip Cafe-N Coffee Maker Black (600 W)- 6Cups",
+    "groupId": 24,
+    "companyId": 4
+  },
+  {
+    "id": 216,
+    "name": "H - Kettle Rocio White (1080 W)- 1.0LTR",
+    "groupId": 24,
+    "companyId": 4
+  },
+  {
+    "id": 217,
+    "name": "H - Kettle Vetro Glass White (2200 W)",
+    "groupId": 24,
+    "companyId": 4
+  },
+  {
+    "id": 218,
+    "name": "H - Energia Mixer Grinder Red White (500 W)",
+    "groupId": 25,
+    "companyId": 4
+  },
+  {
+    "id": 219,
+    "name": "H  -  Genie Mixer Grinder Green (500 W)",
+    "groupId": 25,
+    "companyId": 4
+  },
+  {
+    "id": 220,
+    "name": "H - Gracia Mixer Grinder Purple Silver (500 W)",
+    "groupId": 25,
+    "companyId": 4
+  },
+  {
+    "id": 221,
+    "name": "H - Marathon Haandi (750 W)",
+    "groupId": 25,
+    "companyId": 4
+  },
+  {
+    "id": 222,
+    "name": "H - Marathon Mixer Grinder Ivory (750 W)",
+    "groupId": 25,
+    "companyId": 4
+  },
+  {
+    "id": 223,
+    "name": "H - Marathon Mixer Grinder White (750 W)",
+    "groupId": 25,
+    "companyId": 4
+  },
+  {
+    "id": 224,
+    "name": "H - Maxx Mixer Grinder Blue (750 W)",
+    "groupId": 25,
+    "companyId": 4
+  },
+  {
+    "id": 225,
+    "name": "H - Maxx Mixer Grinder White (500 W)",
+    "groupId": 25,
+    "companyId": 4
+  },
+  {
+    "id": 226,
+    "name": "H - Momenta Mixer Grinder Lavender (750 W)",
+    "groupId": 25,
+    "companyId": 4
+  },
+  {
+    "id": 227,
+    "name": "H- Momenta Mixer Grinder NV (750W)",
+    "groupId": 25,
+    "companyId": 4
+  },
+  {
+    "id": 228,
+    "name": "H - Premio Mixer Grinder Red (750 W)",
+    "groupId": 25,
+    "companyId": 4
+  },
+  {
+    "id": 229,
+    "name": "H - Pro Hygiene Attamatic Dough Maker (500 W)",
+    "groupId": 25,
+    "companyId": 4
+  },
+  {
+    "id": 230,
+    "name": "H - Sprint Mixer Grinder 4 Jar Grey (600 W)",
+    "groupId": 25,
+    "companyId": 4
+  },
+  {
+    "id": 231,
+    "name": "H - Sprint Mixer Grinder Grey (500 W)",
+    "groupId": 25,
+    "companyId": 4
+  },
+  {
+    "id": 232,
+    "name": "H - Sprint Mixer Grinder Grey (600 W)",
+    "groupId": 25,
+    "companyId": 4
+  },
+  {
+    "id": 233,
+    "name": "H - Sprint Mixer Grinder White (550 W)",
+    "groupId": 25,
+    "companyId": 4
+  },
+  {
+    "id": 234,
+    "name": "H - Sprint Mixer Grinder White (600 W)",
+    "groupId": 25,
+    "companyId": 4
+  },
+  {
+    "id": 235,
+    "name": "H - Super Mixer Grinder 2 Jar (500 W)",
+    "groupId": 25,
+    "companyId": 4
+  },
+  {
+    "id": 236,
+    "name": "H - Super Mixer Grinder Turquoise (500 W)",
+    "groupId": 25,
+    "companyId": 4
+  },
+  {
+    "id": 237,
+    "name": "H - Super Mix Haandi Cherry (500 W)",
+    "groupId": 25,
+    "companyId": 4
+  },
+  {
+    "id": 238,
+    "name": "H - Big Fill 2 Slice Sandwich Grill",
+    "groupId": 26,
+    "companyId": 4
+  },
+  {
+    "id": 239,
+    "name": "H - Precise Sandwich Toaster",
+    "groupId": 26,
+    "companyId": 4
+  },
+  {
+    "id": 240,
+    "name": "H - Toastino Multigill  Sandwich Maker",
+    "groupId": 26,
+    "companyId": 4
+  },
+  {
+    "id": 241,
+    "name": "H - Toastino Sandwich Grill",
+    "groupId": 26,
+    "companyId": 4
+  },
+  {
+    "id": 242,
+    "name": "H - Steam Iron Accor Green (2000 W)",
+    "groupId": 27,
+    "companyId": 4
+  },
+  {
+    "id": 243,
+    "name": "H - Steam Iron Admire Blue (1600 W)",
+    "groupId": 27,
+    "companyId": 4
+  },
+  {
+    "id": 244,
+    "name": "H - Steam Iron Admire Green",
+    "groupId": 27,
+    "companyId": 4
+  },
+  {
+    "id": 245,
+    "name": "H - Steam Iron  Admire Orange",
+    "groupId": 27,
+    "companyId": 4
+  },
+  {
+    "id": 246,
+    "name": "H - Steam Iron Magnum Pink (2000 W)",
+    "groupId": 27,
+    "companyId": 4
+  },
+  {
+    "id": 247,
+    "name": "H - Steam Iron Sparkle Purple (1250W)",
+    "groupId": 27,
+    "companyId": 4
+  },
+  {
+    "id": 248,
+    "name": "H - Feasto Pop Toaster (850 W)",
+    "groupId": 28,
+    "companyId": 4
+  },
+  {
+    "id": 249,
+    "name": "H - Pop Toaster Crust White (800 W)",
+    "groupId": 28,
+    "companyId": 4
+  },
+  {
+    "id": 250,
+    "name": "H - Pop Toaster Ovale White (870 W)",
+    "groupId": 28,
+    "companyId": 4
+  },
+  {
+    "id": 251,
+    "name": "H - Pop Toaster Precise White (870 W)",
+    "groupId": 28,
+    "companyId": 4
+  },
+  {
+    "id": 252,
+    "name": "H - Toastio Sandwich Toaster Beige (750 W)",
+    "groupId": 28,
+    "companyId": 4
+  },
+  {
+    "id": 253,
+    "name": "1200MM  Safari Ceiling Fan MRP:4250",
+    "groupId": 29,
+    "companyId": 5
+  },
+  {
+    "id": 254,
+    "name": "750mm Fan Speedster Brown Mrp:2075",
+    "groupId": 29,
+    "companyId": 5
+  },
+  {
+    "id": 255,
+    "name": "HF - 1200MM Fan Aeroking Brown",
+    "groupId": 29,
+    "companyId": 5
+  },
+  {
+    "id": 256,
+    "name": "HF - 1200 MM Fan Aeroking Elegant White",
+    "groupId": 29,
+    "companyId": 5
+  },
+  {
+    "id": 257,
+    "name": "HF - 1200MM Fan Aeroking Ivory",
+    "groupId": 29,
+    "companyId": 5
+  },
+  {
+    "id": 258,
+    "name": "HF - 1200MM FAN Ambrose Gold Mist Wood",
+    "groupId": 29,
+    "companyId": 5
+  },
+  {
+    "id": 259,
+    "name": "HF - 1200MM Fan Ambrose Pearl WH Wood",
+    "groupId": 29,
+    "companyId": 5
+  },
+  {
+    "id": 260,
+    "name": "HF - 1200 MM Fan Andira Pearl White",
+    "groupId": 29,
+    "companyId": 5
+  },
+  {
+    "id": 261,
+    "name": "HF- 1200Mm Fan Andria Indigo Blue",
+    "groupId": 29,
+    "companyId": 5
+  },
+  {
+    "id": 262,
+    "name": "HF - 1200MM Fan Andri Maroon",
+    "groupId": 29,
+    "companyId": 5
+  },
+  {
+    "id": 263,
+    "name": "HF - 1200mm Fan Areole Mist Honey",
+    "groupId": 29,
+    "companyId": 5
+  },
+  {
+    "id": 264,
+    "name": "HF - 1200MM Fan Areole Pearl Brown",
+    "groupId": 29,
+    "companyId": 5
+  },
+  {
+    "id": 265,
+    "name": "Hf - 1200mm Fan Areole Pearl Ivory",
+    "groupId": 29,
+    "companyId": 5
+  },
+  {
+    "id": 266,
+    "name": "Hf - 1200MM Fan Artemis Brown",
+    "groupId": 29,
+    "companyId": 5
+  },
+  {
+    "id": 267,
+    "name": "HF - 1200mm Fan Atilla P.White Wood",
+    "groupId": 29,
+    "companyId": 5
+  },
+  {
+    "id": 268,
+    "name": "HF - 1200 MM Fan Enticer Art Met Blk Crome",
+    "groupId": 29,
+    "companyId": 5
+  },
+  {
+    "id": 269,
+    "name": "HF - 1200 MM Fan Enticer Art P.Wht Chrome",
+    "groupId": 29,
+    "companyId": 5
+  },
+  {
+    "id": 270,
+    "name": "HF - 1200Mm Fan Enticer Beige Copper",
+    "groupId": 29,
+    "companyId": 5
+  },
+  {
+    "id": 271,
+    "name": "HF - 1200 MM Fan Enticer Espresso Bown - Copper",
+    "groupId": 29,
+    "companyId": 5
+  },
+  {
+    "id": 272,
+    "name": "HF - 1200MM Fan Enticer Met. Black Chrome",
+    "groupId": 29,
+    "companyId": 5
+  },
+  {
+    "id": 273,
+    "name": "HF - 1200MM Fan Enticer Pearl White Chrome",
+    "groupId": 29,
+    "companyId": 5
+  },
+  {
+    "id": 274,
+    "name": "HF - 1200MM Fan Enticer Pearl White Gold",
+    "groupId": 29,
+    "companyId": 5
+  },
+  {
+    "id": 275,
+    "name": "HF - 1200MM Fan Enticer Rose Gold",
+    "groupId": 29,
+    "companyId": 5
+  },
+  {
+    "id": 276,
+    "name": "HF - 1200mm Fan Es40 Brown",
+    "groupId": 29,
+    "companyId": 5
+  },
+  {
+    "id": 277,
+    "name": "HF - 1200MM Fan Es- 50 Fivestar Brown",
+    "groupId": 29,
+    "companyId": 5
+  },
+  {
+    "id": 278,
+    "name": "HF - 1200Mm Fan ES-50 Fivestar Ivory",
+    "groupId": 29,
+    "companyId": 5
+  },
+  {
+    "id": 279,
+    "name": "HF - 1200mm Fan Es-50 Five Star White",
+    "groupId": 29,
+    "companyId": 5
+  },
+  {
+    "id": 280,
+    "name": "HF - 1200MM Fan Fabio Platinium Ant Brss",
+    "groupId": 29,
+    "companyId": 5
+  },
+  {
+    "id": 281,
+    "name": "HF - 1200mm Fan Fabio Platinum Br. Nickel",
+    "groupId": 29,
+    "companyId": 5
+  },
+  {
+    "id": 282,
+    "name": "HF - 1200mm Fan Festiva Lavender  Mist",
+    "groupId": 29,
+    "companyId": 5
+  },
+  {
+    "id": 283,
+    "name": "HF - 1200MM Fan Festiva Ocean Blue",
+    "groupId": 29,
+    "companyId": 5
+  },
+  {
+    "id": 284,
+    "name": "HF - 1200mm Fan Festiva Pearl Copper: Mrp -2825",
+    "groupId": 29,
+    "companyId": 5
+  },
+  {
+    "id": 285,
+    "name": "HF - 1200mm Fan Festiva Pearl Ivory",
+    "groupId": 29,
+    "companyId": 5
+  },
+  {
+    "id": 286,
+    "name": "HF - 1200 MM Fan Festiva Pearl White Silver",
+    "groupId": 29,
+    "companyId": 5
+  },
+  {
+    "id": 287,
+    "name": "HF - 1200mm Fan Fiesta Pearl Copper",
+    "groupId": 29,
+    "companyId": 5
+  },
+  {
+    "id": 288,
+    "name": "HF - 1200MM Fan Fiesta Peral Ivory",
+    "groupId": 29,
+    "companyId": 5
+  },
+  {
+    "id": 289,
+    "name": "HF - 1200mm Fan Furia Gold Mist",
+    "groupId": 29,
+    "companyId": 5
+  },
+  {
+    "id": 290,
+    "name": "HF - 1200MM Fan Furia Ocean Blue",
+    "groupId": 29,
+    "companyId": 5
+  },
+  {
+    "id": 291,
+    "name": "HF - 1200MM Fan Furia Pearl Ivory",
+    "groupId": 29,
+    "companyId": 5
+  },
+  {
+    "id": 292,
+    "name": "HF - 1200MM FAn  Fusion Beige Brown",
+    "groupId": 29,
+    "companyId": 5
+  },
+  {
+    "id": 293,
+    "name": "HF - 1200mm Fan Fusion II Matt Brown Beige",
+    "groupId": 29,
+    "companyId": 5
+  },
+  {
+    "id": 294,
+    "name": "HF - 1200mm Fan Fusion II Matt Silver Blue",
+    "groupId": 29,
+    "companyId": 5
+  },
+  {
+    "id": 295,
+    "name": "HF - 1200MM Fan Fusion II M.Prl Ivry Jade -",
+    "groupId": 29,
+    "companyId": 5
+  },
+  {
+    "id": 296,
+    "name": "HF - 1200mm Fan Fusion Oasis Green",
+    "groupId": 29,
+    "companyId": 5
+  },
+  {
+    "id": 297,
+    "name": "HF - 1200MM Fan Fusion Pearl Ivory",
+    "groupId": 29,
+    "companyId": 5
+  },
+  {
+    "id": 298,
+    "name": "HF - 1200mm Fan Fusion Silver Blue",
+    "groupId": 29,
+    "companyId": 5
+  },
+  {
+    "id": 299,
+    "name": "HF - 1200MM Fan Fusion Wine Red",
+    "groupId": 29,
+    "companyId": 5
+  },
+  {
+    "id": 300,
+    "name": "HF - 1200mm Fan Joy Pearl Ivory Pearl Brown",
+    "groupId": 29,
+    "companyId": 5
+  },
+  {
+    "id": 301,
+    "name": "HF - 1200mm Fan Leganza 3B Bronze Gold",
+    "groupId": 29,
+    "companyId": 5
+  },
+  {
+    "id": 302,
+    "name": "HF - 1200mm Fan Leganza 3B Lav Mist Silver",
+    "groupId": 29,
+    "companyId": 5
+  },
+  {
+    "id": 303,
+    "name": "HF - 1200mm Fan Leganza 3B Mist Honey",
+    "groupId": 29,
+    "companyId": 5
+  },
+  {
+    "id": 304,
+    "name": "HF - 1200mm Fan Leganza 3B Pearl Wht Silver",
+    "groupId": 29,
+    "companyId": 5
+  },
+  {
+    "id": 305,
+    "name": "HF - 1200MM Fan Leganza 4B Bronze Gold",
+    "groupId": 29,
+    "companyId": 5
+  },
+  {
+    "id": 306,
+    "name": "HF - 1200MM Fan Leganza 4B Lavender Mist Sil",
+    "groupId": 29,
+    "companyId": 5
+  },
+  {
+    "id": 307,
+    "name": "HF - 1200mm Fan Leganza 4B P.Wht Silver",
+    "groupId": 29,
+    "companyId": 5
+  },
+  {
+    "id": 308,
+    "name": "HF - 1200MM Fan Nicola Bronze Coppe",
+    "groupId": 29,
+    "companyId": 5
+  },
+  {
+    "id": 309,
+    "name": "HF - 1200MM Fan Nicola Gold Mist Copper",
+    "groupId": 29,
+    "companyId": 5
+  },
+  {
+    "id": 310,
+    "name": "HF - 1200MM Fan Nicola Peral IvorY",
+    "groupId": 29,
+    "companyId": 5
+  },
+  {
+    "id": 311,
+    "name": "HF - 1200MM Fan  Nicola Silver White",
+    "groupId": 29,
+    "companyId": 5
+  },
+  {
+    "id": 312,
+    "name": "HF - 1200mm Fan Orion Antique Brass",
+    "groupId": 29,
+    "companyId": 5
+  },
+  {
+    "id": 313,
+    "name": "HF - 1200MM Fan Orion Antique Copper",
+    "groupId": 29,
+    "companyId": 5
+  },
+  {
+    "id": 314,
+    "name": "Hf - 1200 MM Fan Orion Brushed Nickle",
+    "groupId": 29,
+    "companyId": 5
+  },
+  {
+    "id": 315,
+    "name": "HF  - 1200MM Fan Pacer Brown",
+    "groupId": 29,
+    "companyId": 5
+  },
+  {
+    "id": 316,
+    "name": "HF - 1200mm Fan Pacer Ivory",
+    "groupId": 29,
+    "companyId": 5
+  },
+  {
+    "id": 317,
+    "name": "HF - 1200MM Fan Pacer White",
+    "groupId": 29,
+    "companyId": 5
+  },
+  {
+    "id": 318,
+    "name": "HF - 1200mm Fan Spark Deco Brown",
+    "groupId": 29,
+    "companyId": 5
+  },
+  {
+    "id": 319,
+    "name": "HF - 1200mm Fan Spartz Gold Mist Pearl Brown",
+    "groupId": 29,
+    "companyId": 5
+  },
+  {
+    "id": 320,
+    "name": "HF - 1200MM Fan Spartz Pearl White Baby Blue",
+    "groupId": 29,
+    "companyId": 5
+  },
+  {
+    "id": 321,
+    "name": "HF - 1200mm Fan Spartz Pearl Wht Ocean Blu",
+    "groupId": 29,
+    "companyId": 5
+  },
+  {
+    "id": 322,
+    "name": "HF - 1200mm Fan Spiro Mist Honey",
+    "groupId": 29,
+    "companyId": 5
+  },
+  {
+    "id": 323,
+    "name": "HF - 1200MM FAn Spiro Pearl Ivory Honey",
+    "groupId": 29,
+    "companyId": 5
+  },
+  {
+    "id": 324,
+    "name": "HF - 1200MM Fan SS-390 Brown",
+    "groupId": 29,
+    "companyId": 5
+  },
+  {
+    "id": 325,
+    "name": "HF - 1200MM FAN SS-390 DECO PEARL IVORY",
+    "groupId": 29,
+    "companyId": 5
+  },
+  {
+    "id": 326,
+    "name": "Hf - 1200mm Fan Ss-390 Deco Spark  Brown",
+    "groupId": 29,
+    "companyId": 5
+  },
+  {
+    "id": 327,
+    "name": "HF - 1200mm Fan Ss-390 Met.Pearl Ivory",
+    "groupId": 29,
+    "companyId": 5
+  },
+  {
+    "id": 328,
+    "name": "HF - 1200mm Fan Ss-390 Met.Sparkle Brown",
+    "groupId": 29,
+    "companyId": 5
+  },
+  {
+    "id": 329,
+    "name": "HF - 1200mm Fan Ss-390 Pearl Brown",
+    "groupId": 29,
+    "companyId": 5
+  },
+  {
+    "id": 330,
+    "name": "HF - 1200MM Fan SS-390 Sapphire",
+    "groupId": 29,
+    "companyId": 5
+  },
+  {
+    "id": 331,
+    "name": "HF - 1200MM Fan Troika Pearl White Silver",
+    "groupId": 29,
+    "companyId": 5
+  },
+  {
+    "id": 332,
+    "name": "HF - 1200mm Fan Velocity Hs Brown",
+    "groupId": 29,
+    "companyId": 5
+  },
+  {
+    "id": 333,
+    "name": "HF - 1200mm Fan Velocity Hs Ivory",
+    "groupId": 29,
+    "companyId": 5
+  },
+  {
+    "id": 334,
+    "name": "HF - 1200mm Fan Velocity HS White",
+    "groupId": 29,
+    "companyId": 5
+  },
+  {
+    "id": 335,
+    "name": "HF - 1200mm Fan Velocity White",
+    "groupId": 29,
+    "companyId": 5
+  },
+  {
+    "id": 336,
+    "name": "HF - 1200mm Fan Vogue Pearl Brown",
+    "groupId": 29,
+    "companyId": 5
+  },
+  {
+    "id": 337,
+    "name": "HF - 1200mm Fan Vogue Pearl Ivory",
+    "groupId": 29,
+    "companyId": 5
+  },
+  {
+    "id": 338,
+    "name": "HF - 1200mm Fan Vogue Plus Ivory P.Brown",
+    "groupId": 29,
+    "companyId": 5
+  },
+  {
+    "id": 339,
+    "name": "HF - 1200mm Fan Vogue Plus Silver Blue",
+    "groupId": 29,
+    "companyId": 5
+  },
+  {
+    "id": 340,
+    "name": "HF - 1200mm Fan XP-390 Brown",
+    "groupId": 29,
+    "companyId": 5
+  },
+  {
+    "id": 341,
+    "name": "HF - 1200MM Fan Xp-390 Ivory",
+    "groupId": 29,
+    "companyId": 5
+  },
+  {
+    "id": 342,
+    "name": "HF - 1200mm Fan XP-390 White",
+    "groupId": 29,
+    "companyId": 5
+  },
+  {
+    "id": 343,
+    "name": "Hf - 1320MM Fan Filamingo Trio RB Peari Ivory",
+    "groupId": 29,
+    "companyId": 5
+  },
+  {
+    "id": 344,
+    "name": "HF - 1320 MM Fan Octet Brushed Nickel",
+    "groupId": 29,
+    "companyId": 5
+  },
+  {
+    "id": 345,
+    "name": "HF-1320 mm Fan Yorker Antique Copper",
+    "groupId": 29,
+    "companyId": 5
+  },
+  {
+    "id": 346,
+    "name": "HF - 1400mm Fan Pacer Brown",
+    "groupId": 29,
+    "companyId": 5
+  },
+  {
+    "id": 347,
+    "name": "HF - 600mm Fan Fusion Beige Brown",
+    "groupId": 29,
+    "companyId": 5
+  },
+  {
+    "id": 348,
+    "name": "HF - 600MM Fan Fusion P.Ivory",
+    "groupId": 29,
+    "companyId": 5
+  },
+  {
+    "id": 349,
+    "name": "HF - 600mm Fan Fusion Silver Blue",
+    "groupId": 29,
+    "companyId": 5
+  },
+  {
+    "id": 350,
+    "name": "HF - 600 MM FAn Nicola Bronze  Copper",
+    "groupId": 29,
+    "companyId": 5
+  },
+  {
+    "id": 351,
+    "name": "HF - 600mm Fan Nicola Pearl Ivory",
+    "groupId": 29,
+    "companyId": 5
+  },
+  {
+    "id": 352,
+    "name": "HF - 600mm Fan Speedstar Brown",
+    "groupId": 29,
+    "companyId": 5
+  },
+  {
+    "id": 353,
+    "name": "HF - 600mm Fan Speedstar White",
+    "groupId": 29,
+    "companyId": 5
+  },
+  {
+    "id": 354,
+    "name": "HF - 600mm Fan Velocity Brown",
+    "groupId": 29,
+    "companyId": 5
+  },
+  {
+    "id": 355,
+    "name": "HF - 900MM Fan Nicola Broze Copper",
+    "groupId": 29,
+    "companyId": 5
+  },
+  {
+    "id": 356,
+    "name": "HF - 900MM Fan Pacer Brown",
+    "groupId": 29,
+    "companyId": 5
+  },
+  {
+    "id": 357,
+    "name": "HF - 900mm Fan Pacer Ivory",
+    "groupId": 29,
+    "companyId": 5
+  },
+  {
+    "id": 358,
+    "name": "HF - 150MM Fan Ventil Air DXWE",
+    "groupId": 30,
+    "companyId": 5
+  },
+  {
+    "id": 359,
+    "name": "HF - 150MM Fan Ventil Air DX White",
+    "groupId": 30,
+    "companyId": 5
+  },
+  {
+    "id": 360,
+    "name": "HF - 18 H.D (1400RPM) Exhaust Fan",
+    "groupId": 30,
+    "companyId": 5
+  },
+  {
+    "id": 361,
+    "name": "HF - 200mm Fan Ventil Air DX",
+    "groupId": 30,
+    "companyId": 5
+  },
+  {
+    "id": 362,
+    "name": "HF - 230mm Fan Ventil Air DB Mrp:1950",
+    "groupId": 30,
+    "companyId": 5
+  },
+  {
+    "id": 363,
+    "name": "HF - 230mm Fan Ventil Air Ds",
+    "groupId": 30,
+    "companyId": 5
+  },
+  {
+    "id": 364,
+    "name": "HF - 230mm Fan Ventil Air Dsp",
+    "groupId": 30,
+    "companyId": 5
+  },
+  {
+    "id": 365,
+    "name": "HF - 250MM Fan Ventil Air DX White",
+    "groupId": 30,
+    "companyId": 5
+  },
+  {
+    "id": 366,
+    "name": "HF - 300MM Fan Ventil Air DB",
+    "groupId": 30,
+    "companyId": 5
+  },
+  {
+    "id": 367,
+    "name": "HF - 300mm Fan Ventil Air Ds",
+    "groupId": 30,
+    "companyId": 5
+  },
+  {
+    "id": 368,
+    "name": "HF - 300mm Fan Ventil Air Dsp",
+    "groupId": 30,
+    "companyId": 5
+  },
+  {
+    "id": 369,
+    "name": "HF - 400MM Girik Black Pedestal (WH TM)",
+    "groupId": 31,
+    "companyId": 5
+  },
+  {
+    "id": 370,
+    "name": "HF - 400MM Rio Remote Pedestal Grw Fan",
+    "groupId": 31,
+    "companyId": 5
+  },
+  {
+    "id": 371,
+    "name": "HF - 400MM Sprint HS Wht Pedestal Fan",
+    "groupId": 31,
+    "companyId": 5
+  },
+  {
+    "id": 372,
+    "name": "HF - 400Mm Sprint Led Blue Pedestal Fan",
+    "groupId": 31,
+    "companyId": 5
+  },
+  {
+    "id": 373,
+    "name": "HF - 400mm Sprint Led Wine Red Pedestal Fan",
+    "groupId": 31,
+    "companyId": 5
+  },
+  {
+    "id": 374,
+    "name": "HF - 400mm Swing Pedestal Fan (W.Timer)",
+    "groupId": 31,
+    "companyId": 5
+  },
+  {
+    "id": 375,
+    "name": "HF - 400mm Trendy Pedestal Fan Grey",
+    "groupId": 31,
+    "companyId": 5
+  },
+  {
+    "id": 376,
+    "name": "HF - 450mm V3 Turbo Pedestal Fan S.Black",
+    "groupId": 31,
+    "companyId": 5
+  },
+  {
+    "id": 377,
+    "name": "HF - 180mm I-Cool White Maroon Personal Fan",
+    "groupId": 32,
+    "companyId": 5
+  },
+  {
+    "id": 378,
+    "name": "HF - 300mm Ciera Cabin Fan",
+    "groupId": 32,
+    "companyId": 5
+  },
+  {
+    "id": 379,
+    "name": "HF - 400mm Swing Gyro Cabin Fan",
+    "groupId": 32,
+    "companyId": 5
+  },
+  {
+    "id": 380,
+    "name": "HF - 400 MM Swing Lx Hs Tabel Fan BLUE",
+    "groupId": 33,
+    "companyId": 5
+  },
+  {
+    "id": 381,
+    "name": "HF - 400mm Swing Lx Table Fan Blue",
+    "groupId": 33,
+    "companyId": 5
+  },
+  {
+    "id": 382,
+    "name": "HF - 400mm Swing Lx Table Fan Cherry",
+    "groupId": 33,
+    "companyId": 5
+  },
+  {
+    "id": 383,
+    "name": "HF - 400MM SWING ZX L.BLUE TABLE FAN",
+    "groupId": 33,
+    "companyId": 5
+  },
+  {
+    "id": 384,
+    "name": "HF - 400MM Velocity Neo HS Table Fan",
+    "groupId": 33,
+    "companyId": 5
+  },
+  {
+    "id": 385,
+    "name": "HF - 300mm Swing Off White Wall Fan",
+    "groupId": 34,
+    "companyId": 5
+  },
+  {
+    "id": 386,
+    "name": "HF - 400MM Diva2010 Brn Wall Fan",
+    "groupId": 34,
+    "companyId": 5
+  },
+  {
+    "id": 387,
+    "name": "HF - 400 MM Sameera Wall Fan Grey",
+    "groupId": 34,
+    "companyId": 5
+  },
+  {
+    "id": 388,
+    "name": "HF - 400mm Swanky Wall Fan Blue",
+    "groupId": 34,
+    "companyId": 5
+  },
+  {
+    "id": 389,
+    "name": "HF - 400mm Swing Platina Hs Wall Fan",
+    "groupId": 34,
+    "companyId": 5
+  },
+  {
+    "id": 390,
+    "name": "HF - 400MM Swing Royale Wall Fan",
+    "groupId": 34,
+    "companyId": 5
+  },
+  {
+    "id": 391,
+    "name": "HF - 400mm Swing Wall Fan Off White",
+    "groupId": 34,
+    "companyId": 5
+  },
+  {
+    "id": 392,
+    "name": "HF - 450mm Airball Hs Wall Fan Wht",
+    "groupId": 34,
+    "companyId": 5
+  },
+  {
+    "id": 393,
+    "name": "HF - 450mm Fan V3 Wall Fan S Black",
+    "groupId": 34,
+    "companyId": 5
+  },
+  {
+    "id": 394,
+    "name": "HF -Swing Premia Wall Fan 16'",
+    "groupId": 34,
+    "companyId": 5
+  },
+  {
+    "id": 395,
+    "name": "Elec. Ballast .El Star Slim - 36 W MRP : 175",
+    "groupId": 35,
+    "companyId": 6
+  },
+  {
+    "id": 396,
+    "name": "L FIXT ELECTRA POPULAR STRIP 40 W EB (Wol : 360",
+    "groupId": 36,
+    "companyId": 6
+  },
+  {
+    "id": 397,
+    "name": "10A DP C MCB Havells Euro 2",
+    "groupId": 37,
+    "companyId": 6
+  },
+  {
+    "id": 398,
+    "name": "16A DP C MCb Euro 2",
+    "groupId": 37,
+    "companyId": 6
+  },
+  {
+    "id": 399,
+    "name": "16A Sp 'B' MCB Euro 2",
+    "groupId": 37,
+    "companyId": 6
+  },
+  {
+    "id": 400,
+    "name": "16A TP C MCB  Euro 2",
+    "groupId": 37,
+    "companyId": 6
+  },
+  {
+    "id": 401,
+    "name": "63A SP 'B' MCB Havells",
+    "groupId": 37,
+    "companyId": 6
+  },
+  {
+    "id": 402,
+    "name": "Programable Time Switch 24Hars Crab Xpro",
+    "groupId": 37,
+    "companyId": 6
+  },
+  {
+    "id": 403,
+    "name": "Standerd AC Switch",
+    "groupId": 37,
+    "companyId": 6
+  },
+  {
+    "id": 404,
+    "name": "10A 1way Switch Coral",
+    "groupId": 37,
+    "companyId": 6
+  },
+  {
+    "id": 405,
+    "name": "10A 2Way Swithc Coral",
+    "groupId": 37,
+    "companyId": 6
+  },
+  {
+    "id": 406,
+    "name": "16A 1Way Swithc Coral",
+    "groupId": 37,
+    "companyId": 6
+  },
+  {
+    "id": 407,
+    "name": "3M Combine Plate Coral Havells",
+    "groupId": 38,
+    "companyId": 6
+  },
+  {
+    "id": 408,
+    "name": "8M Combined Plate Coral Havells",
+    "groupId": 38,
+    "companyId": 6
+  },
+  {
+    "id": 409,
+    "name": "Blank Plate Cral Havells",
+    "groupId": 38,
+    "companyId": 6
+  },
+  {
+    "id": 410,
+    "name": "12M Cover Plate Coral",
+    "groupId": 38,
+    "companyId": 6
+  },
+  {
+    "id": 411,
+    "name": "18M Cover Plate Coral",
+    "groupId": 38,
+    "companyId": 6
+  },
+  {
+    "id": 412,
+    "name": "2M Fan Regulator Coral",
+    "groupId": 38,
+    "companyId": 6
+  },
+  {
+    "id": 413,
+    "name": "3M Cover Plate Coral",
+    "groupId": 38,
+    "companyId": 6
+  },
+  {
+    "id": 414,
+    "name": "6-16 Socket Coral",
+    "groupId": 38,
+    "companyId": 6
+  },
+  {
+    "id": 415,
+    "name": "6A 5Pin Socket Coral Havells",
+    "groupId": 38,
+    "companyId": 6
+  },
+  {
+    "id": 416,
+    "name": "6M Cover Plate Coral",
+    "groupId": 38,
+    "companyId": 6
+  },
+  {
+    "id": 417,
+    "name": "Dummy Plate Coral",
+    "groupId": 38,
+    "companyId": 6
+  },
+  {
+    "id": 418,
+    "name": "3M Surface Box Havells",
+    "groupId": 38,
+    "companyId": 6
+  },
+  {
+    "id": 419,
+    "name": "DB Ph-Sel 4W DD 40 Horz(RG) 204V/415V Ac",
+    "groupId": 38,
+    "companyId": 6
+  },
+  {
+    "id": 420,
+    "name": "Led Bolt Suface Round 18 W 6 K",
+    "groupId": 39,
+    "companyId": 6
+  },
+  {
+    "id": 421,
+    "name": "LED L FIXT JOY DL 15W 6K Rec MRP : 1490",
+    "groupId": 39,
+    "companyId": 6
+  },
+  {
+    "id": 422,
+    "name": "LED L. FIXT JOY DL 3W 6K Rec MRP : 690",
+    "groupId": 39,
+    "companyId": 6
+  },
+  {
+    "id": 423,
+    "name": "LED L FIXT JOY DL 5W 6K Rec MRP : 990",
+    "groupId": 39,
+    "companyId": 6
+  },
+  {
+    "id": 424,
+    "name": "Led L Fixt Linear DLX 10 W MRP : 2100",
+    "groupId": 39,
+    "companyId": 6
+  },
+  {
+    "id": 425,
+    "name": "HL - 400W HPS/MH Oc Ballast",
+    "groupId": 39,
+    "companyId": 6
+  },
+  {
+    "id": 426,
+    "name": "LTS Solazen Led Solar Wall Light 3.2W",
+    "groupId": 39,
+    "companyId": 6
+  },
+  {
+    "id": 427,
+    "name": "Metal Halide Lamp 400W Mh Bt 6K (INST)",
+    "groupId": 39,
+    "companyId": 6
+  },
+  {
+    "id": 428,
+    "name": "4 Sqmm Gland",
+    "groupId": 40,
+    "companyId": 7
+  },
+  {
+    "id": 429,
+    "name": "HPG - Bikini Trimmer Purple FD5001",
+    "groupId": 41,
+    "companyId": 8
+  },
+  {
+    "id": 430,
+    "name": "HPG - Chopstick Curler Yellow HC 40312",
+    "groupId": 41,
+    "companyId": 8
+  },
+  {
+    "id": 431,
+    "name": "HPG - Hair Dryer  Purple HD3201 1500W",
+    "groupId": 41,
+    "companyId": 8
+  },
+  {
+    "id": 432,
+    "name": "HPG - Hair Dryer  White HD3151 1200W",
+    "groupId": 41,
+    "companyId": 8
+  },
+  {
+    "id": 433,
+    "name": "HPG - Hair Straightner Golden HS4151",
+    "groupId": 41,
+    "companyId": 8
+  },
+  {
+    "id": 434,
+    "name": "HPG  - Beard Trimmer Blue BT6201",
+    "groupId": 42,
+    "companyId": 8
+  },
+  {
+    "id": 435,
+    "name": "HPG - Beard Trimmer Ink Blue BT6101B",
+    "groupId": 42,
+    "companyId": 8
+  },
+  {
+    "id": 436,
+    "name": "HPG - Beard Trimmer Ink Blue BT6151C",
+    "groupId": 42,
+    "companyId": 8
+  },
+  {
+    "id": 437,
+    "name": "HPG - Grooming Kit Black GS6251",
+    "groupId": 42,
+    "companyId": 8
+  },
+  {
+    "id": 438,
+    "name": "HPG - Nose & Ear Trimmer Grey NE6311",
+    "groupId": 42,
+    "companyId": 8
+  },
+  {
+    "id": 439,
+    "name": "HPG - Pocket Shaver Black PS7002",
+    "groupId": 42,
+    "companyId": 8
+  },
+  {
+    "id": 440,
+    "name": "HPG - Pocket Shaver Orange PS7001",
+    "groupId": 42,
+    "companyId": 8
+  },
+  {
+    "id": 441,
+    "name": "HPG - Rotary Shaver Black RS7101",
+    "groupId": 42,
+    "companyId": 8
+  },
+  {
+    "id": 442,
+    "name": "HPG  - Rotry Shaver Ink Blue RS7131",
+    "groupId": 42,
+    "companyId": 8
+  },
+  {
+    "id": 443,
+    "name": "H - ADONIA DIGITAL 5S 15LTR SP FP WHITE-SWH",
+    "groupId": 43,
+    "companyId": 9
+  },
+  {
+    "id": 444,
+    "name": "H - Bello SWH (Ivory Brown) 25 L",
+    "groupId": 43,
+    "companyId": 9
+  },
+  {
+    "id": 445,
+    "name": "H - Instanio 3Kw (White Mustard)- 3L",
+    "groupId": 43,
+    "companyId": 9
+  },
+  {
+    "id": 446,
+    "name": "H - Instanio 6l White Blue",
+    "groupId": 43,
+    "companyId": 9
+  },
+  {
+    "id": 447,
+    "name": "H - Instanio 6L White Mustard",
+    "groupId": 43,
+    "companyId": 9
+  },
+  {
+    "id": 448,
+    "name": "H - MONZA EC 25LTR WHITE-SWH",
+    "groupId": 43,
+    "companyId": 9
+  },
+  {
+    "id": 449,
+    "name": "H - MONZA EC 5S 10LTR SM WHITE-SWH",
+    "groupId": 43,
+    "companyId": 9
+  },
+  {
+    "id": 450,
+    "name": "H - Monza EC 5S Swh Ivory- 15 L",
+    "groupId": 43,
+    "companyId": 9
+  },
+  {
+    "id": 451,
+    "name": "H - Monza EC 5S Swh Ivory- 25 L",
+    "groupId": 43,
+    "companyId": 9
+  },
+  {
+    "id": 452,
+    "name": "H - Monza EC 5S Swh White- 15 L",
+    "groupId": 43,
+    "companyId": 9
+  },
+  {
+    "id": 453,
+    "name": "H - Monza Slim Sm HR White Swh- 15 L",
+    "groupId": 43,
+    "companyId": 9
+  },
+  {
+    "id": 454,
+    "name": "H - Neo EC Ip 3kw Ivory- 1 L",
+    "groupId": 43,
+    "companyId": 9
+  },
+  {
+    "id": 455,
+    "name": "H - Neo Ip 3kw White- 1 L",
+    "groupId": 43,
+    "companyId": 9
+  },
+  {
+    "id": 456,
+    "name": "H - Opal Ip 3Kw White-1 L",
+    "groupId": 43,
+    "companyId": 9
+  },
+  {
+    "id": 457,
+    "name": "H - Puro Ivory- 10 L",
+    "groupId": 43,
+    "companyId": 9
+  },
+  {
+    "id": 458,
+    "name": "H - PURO PLUS 25LTR SP WHITE-SWH",
+    "groupId": 43,
+    "companyId": 9
+  },
+  {
+    "id": 459,
+    "name": "H - Puro Plus 5S 10Ltr Sm Fp White",
+    "groupId": 43,
+    "companyId": 9
+  },
+  {
+    "id": 460,
+    "name": "H - Puro Plus 5S Sp FP Swh Ivory- 10 L",
+    "groupId": 43,
+    "companyId": 9
+  },
+  {
+    "id": 461,
+    "name": "H - Puro Plus 5S SP Swh Ivory- 15 L",
+    "groupId": 43,
+    "companyId": 9
+  },
+  {
+    "id": 462,
+    "name": "H - Puro Plus 5S SP Swh White- 15 L",
+    "groupId": 43,
+    "companyId": 9
+  },
+  {
+    "id": 463,
+    "name": "H - Puro Plus Sp Swh Ivory- 25 L",
+    "groupId": 43,
+    "companyId": 9
+  },
+  {
+    "id": 464,
+    "name": "H - Puro Swh White- 10 L",
+    "groupId": 43,
+    "companyId": 9
+  },
+  {
+    "id": 465,
+    "name": "HW Life Line Sc 1.0 Sqmm Fx Bk 90m",
+    "groupId": 44,
+    "companyId": 10
+  },
+  {
+    "id": 466,
+    "name": "HW - Life Line Sc 1.0 Sqmm Fx BL",
+    "groupId": 44,
+    "companyId": 10
+  },
+  {
+    "id": 467,
+    "name": "HW - Life Line SC1.0 Sqmm Fx Gn",
+    "groupId": 44,
+    "companyId": 10
+  },
+  {
+    "id": 468,
+    "name": "HW - Life Line Sc1.0 Sqmm Fx Rd",
+    "groupId": 44,
+    "companyId": 10
+  },
+  {
+    "id": 469,
+    "name": "HW - Life Line Sc 1.0 Sqmm Fx YL",
+    "groupId": 44,
+    "companyId": 10
+  },
+  {
+    "id": 470,
+    "name": "HW - Life Line SC1.5 SQMM FX BK",
+    "groupId": 45,
+    "companyId": 10
+  },
+  {
+    "id": 471,
+    "name": "HW - Life Line Sc1.5 Sqmm Fx Bl",
+    "groupId": 45,
+    "companyId": 10
+  },
+  {
+    "id": 472,
+    "name": "HW - Life Line SC 1.5 SQMM FX GN",
+    "groupId": 45,
+    "companyId": 10
+  },
+  {
+    "id": 473,
+    "name": "HW - Life Line Sc 1.5 Sqmm Fx Rd",
+    "groupId": 45,
+    "companyId": 10
+  },
+  {
+    "id": 474,
+    "name": "HW - Life Line Sc1.5 Sqmm Fx Yl",
+    "groupId": 45,
+    "companyId": 10
+  },
+  {
+    "id": 475,
+    "name": "HW - Life Line Sc 2.5Sqmm Fx Bk",
+    "groupId": 46,
+    "companyId": 10
+  },
+  {
+    "id": 476,
+    "name": "HW - Life Line SC 2.5 SQMM FX BL",
+    "groupId": 46,
+    "companyId": 10
+  },
+  {
+    "id": 477,
+    "name": "HW - Life Line SC 2.5 SQMM FX GN",
+    "groupId": 46,
+    "companyId": 10
+  },
+  {
+    "id": 478,
+    "name": "HW - LIFE LINE SC 2.5Sqmm Fx Rd",
+    "groupId": 46,
+    "companyId": 10
+  },
+  {
+    "id": 479,
+    "name": "HW - Life Line SC 2.5 SQMM FX YL",
+    "groupId": 46,
+    "companyId": 10
+  },
+  {
+    "id": 480,
+    "name": "Hw - Life Line SC 4.0 SQMM FX BK 90M",
+    "groupId": 47,
+    "companyId": 10
+  },
+  {
+    "id": 481,
+    "name": "HW - LIfe Line Sc4.0 Sqmm Fx BL",
+    "groupId": 47,
+    "companyId": 10
+  },
+  {
+    "id": 482,
+    "name": "HW - Life Line SC 4.0 SQMM FX GN",
+    "groupId": 47,
+    "companyId": 10
+  },
+  {
+    "id": 483,
+    "name": "HW - Life Line Sc 4.0SQmm Fx Rd",
+    "groupId": 47,
+    "companyId": 10
+  },
+  {
+    "id": 484,
+    "name": "HW - Life Line Sc4.0 Sqmm Fx YL",
+    "groupId": 47,
+    "companyId": 10
+  },
+  {
+    "id": 485,
+    "name": "HW - Sc 10 Sqmm Fx Bk 100m",
+    "groupId": 48,
+    "companyId": 10
+  },
+  {
+    "id": 486,
+    "name": "HW - SC 10 SQMM FX BL 100M",
+    "groupId": 48,
+    "companyId": 10
+  },
+  {
+    "id": 487,
+    "name": "HW - SC 10 SQMM FX RD 100M",
+    "groupId": 48,
+    "companyId": 10
+  },
+  {
+    "id": 488,
+    "name": "HW - SC 1.0SQMM FX BK 180M",
+    "groupId": 49,
+    "companyId": 10
+  },
+  {
+    "id": 489,
+    "name": "HW - SC 1.0SQMM FX BL 180M",
+    "groupId": 49,
+    "companyId": 10
+  },
+  {
+    "id": 490,
+    "name": "HW - SC 1.0SQMM FX GN 180M",
+    "groupId": 49,
+    "companyId": 10
+  },
+  {
+    "id": 491,
+    "name": "HW - SC 1.0 SQMM FX RD 180M",
+    "groupId": 49,
+    "companyId": 10
+  },
+  {
+    "id": 492,
+    "name": "HW - SC 1.0 SQMM FX YL 180M",
+    "groupId": 49,
+    "companyId": 10
+  },
+  {
+    "id": 493,
+    "name": "HW - SC 1.5 Sqmm Fx BK 180M",
+    "groupId": 50,
+    "companyId": 10
+  },
+  {
+    "id": 494,
+    "name": "HW - SC 1.5 Sqmm Fx BL 180M",
+    "groupId": 50,
+    "companyId": 10
+  },
+  {
+    "id": 495,
+    "name": "HW - Sc 1.5 Sqmm Fx Gn 180 M",
+    "groupId": 50,
+    "companyId": 10
+  },
+  {
+    "id": 496,
+    "name": "HW - SC 1.5 SQMM Fx RD 180M",
+    "groupId": 50,
+    "companyId": 10
+  },
+  {
+    "id": 497,
+    "name": "HW - SC 1.5 SQMM Fx Yl 180M",
+    "groupId": 50,
+    "companyId": 10
+  },
+  {
+    "id": 498,
+    "name": "HW - SC 2.5 SQMM FX BK 180M",
+    "groupId": 51,
+    "companyId": 10
+  },
+  {
+    "id": 499,
+    "name": "HW - SC 2.5 SQMM FX BL 180 M",
+    "groupId": 51,
+    "companyId": 10
+  },
+  {
+    "id": 500,
+    "name": "HW - SC 2.5 SQMM FX GN 180M",
+    "groupId": 51,
+    "companyId": 10
+  },
+  {
+    "id": 501,
+    "name": "HW - SC 2.5 SQMM FX RD 180M",
+    "groupId": 51,
+    "companyId": 10
+  },
+  {
+    "id": 502,
+    "name": "HW - SC 2.5 SQMM FX YL 180M",
+    "groupId": 51,
+    "companyId": 10
+  },
+  {
+    "id": 503,
+    "name": "HW - SC 4.0 SQMM FX BK 180M",
+    "groupId": 52,
+    "companyId": 10
+  },
+  {
+    "id": 504,
+    "name": "HW - SC 4.0 SQMM FX BL 180M",
+    "groupId": 52,
+    "companyId": 10
+  },
+  {
+    "id": 505,
+    "name": "HW - SC 4.0 SQMM FX GN 180M",
+    "groupId": 52,
+    "companyId": 10
+  },
+  {
+    "id": 506,
+    "name": "HW - SC 4.0 SQMM FX RD 180M",
+    "groupId": 52,
+    "companyId": 10
+  },
+  {
+    "id": 507,
+    "name": "HW - SC 4.0 SQMM FX YL 180M",
+    "groupId": 52,
+    "companyId": 10
+  },
+  {
+    "id": 508,
+    "name": "HW - 3C 1.0 Sqmm Extra Flex 100m Bk",
+    "groupId": 53,
+    "companyId": 10
+  },
+  {
+    "id": 509,
+    "name": "HW - 3C 1.5 SQMM FLAT CABLE 100M",
+    "groupId": 53,
+    "companyId": 10
+  },
+  {
+    "id": 510,
+    "name": "HW - 10Sqmm x 4C Alu Armd CaBLE",
+    "groupId": 54,
+    "companyId": 10
+  },
+  {
+    "id": 511,
+    "name": "HW -  4C 2.5 SQMM Extra Flex Bk 100m Havells",
+    "groupId": 54,
+    "companyId": 10
+  },
+  {
+    "id": 512,
+    "name": "HW - 4Sqmm x 4C Alu Armd Cable",
+    "groupId": 54,
+    "companyId": 10
+  },
+  {
+    "id": 513,
+    "name": "HW - 63/415V TPN Rew Sfu",
+    "groupId": 54,
+    "companyId": 10
+  },
+  {
+    "id": 514,
+    "name": "HW - 6SQMM X 4C Alu Armd Cable",
+    "groupId": 54,
+    "companyId": 10
+  },
+  {
+    "id": 515,
+    "name": "HW -Ind Grade Rg-06 Cu JF O Axial CBL 90M",
+    "groupId": 54,
+    "companyId": 10
+  },
+  {
+    "id": 516,
+    "name": "IFB A - Split Ac 1.0 T# IACS12KA3TGC[CU]-IDU",
+    "groupId": 55,
+    "companyId": 1
+  },
+  {
+    "id": 517,
+    "name": "IFB A - Split AC 1.0 T#IACS 12KA3TGC[CU]-ODU",
+    "groupId": 55,
+    "companyId": 1
+  },
+  {
+    "id": 518,
+    "name": "IFB A - Split Ac 1.5t IACS18KA3TGC(CU)-ODU",
+    "groupId": 55,
+    "companyId": 1
+  },
+  {
+    "id": 519,
+    "name": "IFB A - Split Ac 1.5T IACS KA3TGC(CU)-IDU",
+    "groupId": 55,
+    "companyId": 1
+  },
+  {
+    "id": 520,
+    "name": "IFB A - Split A/c 2.0 T IACS24KA3TGC[CU]-IDU",
+    "groupId": 55,
+    "companyId": 1
+  },
+  {
+    "id": 521,
+    "name": "IFB A - SPLIT A/C 2.0 T IACS24KA3TGC[CU]-ODU",
+    "groupId": 55,
+    "companyId": 1
+  },
+  {
+    "id": 522,
+    "name": "IFB M - 17PM-MEC1",
+    "groupId": 56,
+    "companyId": 1
+  },
+  {
+    "id": 523,
+    "name": "IFB M - 20PG4S M.Oven",
+    "groupId": 56,
+    "companyId": 1
+  },
+  {
+    "id": 524,
+    "name": "IFB M - 20SC2 M.Oven",
+    "groupId": 56,
+    "companyId": 1
+  },
+  {
+    "id": 525,
+    "name": "IFB M - 23BC4 M.Oven",
+    "groupId": 56,
+    "companyId": 1
+  },
+  {
+    "id": 526,
+    "name": "IFB M - 25BC4 M.Oven",
+    "groupId": 56,
+    "companyId": 1
+  },
+  {
+    "id": 527,
+    "name": "IFB M - 30BRC2 M.OVEN",
+    "groupId": 56,
+    "companyId": 1
+  },
+  {
+    "id": 528,
+    "name": "IFB M - 34BIC1 M.OVEN",
+    "groupId": 56,
+    "companyId": 1
+  },
+  {
+    "id": 529,
+    "name": "IFB M- MICRO WAVE OVEN 17PG3S",
+    "groupId": 56,
+    "companyId": 1
+  },
+  {
+    "id": 530,
+    "name": "IFB M - Micro Wave Oven 20Pms",
+    "groupId": 56,
+    "companyId": 1
+  },
+  {
+    "id": 531,
+    "name": "IFB M -  Microwave Oven 30sc4",
+    "groupId": 56,
+    "companyId": 1
+  },
+  {
+    "id": 532,
+    "name": "IFB M - Mw921prrbk1010",
+    "groupId": 56,
+    "companyId": 1
+  },
+  {
+    "id": 533,
+    "name": "IFB M - Mwo Start Up Kit #Grill",
+    "groupId": 56,
+    "companyId": 1
+  },
+  {
+    "id": 534,
+    "name": "IFB - Cooker Hood IFB Gl-14t-90CM",
+    "groupId": 56,
+    "companyId": 1
+  },
+  {
+    "id": 535,
+    "name": "IFB cooker hood N 59 BK-60CM",
+    "groupId": 56,
+    "companyId": 1
+  },
+  {
+    "id": 536,
+    "name": "IFB M - Micro Wave Oven 20BC4",
+    "groupId": 56,
+    "companyId": 1
+  },
+  {
+    "id": 537,
+    "name": "IFB W - Diva Aqua Sx",
+    "groupId": 57,
+    "companyId": 1
+  },
+  {
+    "id": 538,
+    "name": "IFB W - Diva Aqua Sx - 24490",
+    "groupId": 57,
+    "companyId": 1
+  },
+  {
+    "id": 539,
+    "name": "IFB W - ELENA AQUA SX-29690",
+    "groupId": 57,
+    "companyId": 1
+  },
+  {
+    "id": 540,
+    "name": "IFB W - Elena Aqua Sx Ldt MRp:29190",
+    "groupId": 57,
+    "companyId": 1
+  },
+  {
+    "id": 541,
+    "name": "IFB W - Elena Aqua Vx Mrp:26990",
+    "groupId": 57,
+    "companyId": 1
+  },
+  {
+    "id": 542,
+    "name": "IFB W - Elite Aqua Sx Mrp:37990",
+    "groupId": 57,
+    "companyId": 1
+  },
+  {
+    "id": 543,
+    "name": "IFB W - ELITE AQUA VX",
+    "groupId": 57,
+    "companyId": 1
+  },
+  {
+    "id": 544,
+    "name": "IFB W - EVA AQUA SX LDT - 28490",
+    "groupId": 57,
+    "companyId": 1
+  },
+  {
+    "id": 545,
+    "name": "IFB W - Eva Aqua Sx Ldt Mrp:27990",
+    "groupId": 57,
+    "companyId": 1
+  },
+  {
+    "id": 546,
+    "name": "IFB W -  Eva Aqua Vx Ldt Mrp:26490",
+    "groupId": 57,
+    "companyId": 1
+  },
+  {
+    "id": 547,
+    "name": "IFB W - Senator Aqua Sx",
+    "groupId": 57,
+    "companyId": 1
+  },
+  {
+    "id": 548,
+    "name": "IFB W - SENATOR SX 8KG",
+    "groupId": 57,
+    "companyId": 1
+  },
+  {
+    "id": 549,
+    "name": "IFB W - Senorita Aqua Sx 6.5 Mrp:35690",
+    "groupId": 57,
+    "companyId": 1
+  },
+  {
+    "id": 550,
+    "name": "IFB W - Senorita Aqua Vx 6.5 Mrp:32900",
+    "groupId": 57,
+    "companyId": 1
+  },
+  {
+    "id": 551,
+    "name": "IFB W - Senorita Plus Sx",
+    "groupId": 57,
+    "companyId": 1
+  },
+  {
+    "id": 552,
+    "name": "IFB W - Senorita Smart",
+    "groupId": 57,
+    "companyId": 1
+  },
+  {
+    "id": 553,
+    "name": "IFB W - SERENA AQUA SX  - 30490",
+    "groupId": 57,
+    "companyId": 1
+  },
+  {
+    "id": 554,
+    "name": "IFB W - Serena Aqua Sx Ldt Mrp:29990",
+    "groupId": 57,
+    "companyId": 1
+  },
+  {
+    "id": 555,
+    "name": "IFB W - Rcg 6.5Kg Aqua Mrp:20990",
+    "groupId": 58,
+    "companyId": 1
+  },
+  {
+    "id": 556,
+    "name": "IFB W - RCSG AQUA 6.5 KG",
+    "groupId": 58,
+    "companyId": 1
+  },
+  {
+    "id": 557,
+    "name": "IFB W - RCW 6.5Kg Aqua -",
+    "groupId": 58,
+    "companyId": 1
+  },
+  {
+    "id": 558,
+    "name": "IFB W - Rds 6.5 Kg Aqua",
+    "groupId": 58,
+    "companyId": 1
+  },
+  {
+    "id": 559,
+    "name": "IFB W - RDSS 6.5 KG AQUA 19990",
+    "groupId": 58,
+    "companyId": 1
+  },
+  {
+    "id": 560,
+    "name": "IFB W - Rdw 6.5kg Aqua",
+    "groupId": 58,
+    "companyId": 1
+  },
+  {
+    "id": 561,
+    "name": "IFB W - RDW 6.5KG Aqua - 18990",
+    "groupId": 58,
+    "companyId": 1
+  },
+  {
+    "id": 562,
+    "name": "IFB W - Rdw 6.5Kg Aqua Mrp:18490",
+    "groupId": 58,
+    "companyId": 1
+  },
+  {
+    "id": 563,
+    "name": "IFB - W - SDG 9.5",
+    "groupId": 58,
+    "companyId": 1
+  },
+  {
+    "id": 564,
+    "name": "IFB W - SDG AQUA 7.0KG",
+    "groupId": 58,
+    "companyId": 1
+  },
+  {
+    "id": 565,
+    "name": "IFB W - TL SDR 6.5Kg Aqua",
+    "groupId": 58,
+    "companyId": 1
+  },
+  {
+    "id": 566,
+    "name": "IFB D - Maxi Dryer 550",
+    "groupId": 59,
+    "companyId": 1
+  },
+  {
+    "id": 567,
+    "name": "L&T Eng Melody Door Bell (OB33W00)",
+    "groupId": 60,
+    "companyId": 11
+  },
+  {
+    "id": 568,
+    "name": "L&T Oris Digi Ding Dong Door Bell",
+    "groupId": 60,
+    "companyId": 11
+  },
+  {
+    "id": 569,
+    "name": "L&T Oris Mantras Door Bell Ob31W00",
+    "groupId": 60,
+    "companyId": 11
+  },
+  {
+    "id": 570,
+    "name": "L&T - CABLE OUTLET 1M (CB91101AW00)",
+    "groupId": 61,
+    "companyId": 11
+  },
+  {
+    "id": 571,
+    "name": "L&T - 12 Mod Phase Selector Double Door DB PHC12DDB",
+    "groupId": 62,
+    "companyId": 11
+  },
+  {
+    "id": 572,
+    "name": "L&T 2MOD 20AP&SD PMP 220DB",
+    "groupId": 62,
+    "companyId": 11
+  },
+  {
+    "id": 573,
+    "name": "L&T 6MOD PH Double DOOR DB PHC06DDB",
+    "groupId": 62,
+    "companyId": 11
+  },
+  {
+    "id": 574,
+    "name": "L&T - 8 MOD Phase Selector Double Door DB PHC08DDB",
+    "groupId": 62,
+    "companyId": 11
+  },
+  {
+    "id": 575,
+    "name": "L&T Tripbox Ph Sel 4W DDWith C/o S/w BHC04DDB",
+    "groupId": 62,
+    "companyId": 11
+  },
+  {
+    "id": 576,
+    "name": "L&T Trip Box Ph Sel 6W Withc/o S/w BHC06DDB",
+    "groupId": 62,
+    "companyId": 11
+  },
+  {
+    "id": 577,
+    "name": "L&T 4 MOD Phase Selector DB PHC04DDB",
+    "groupId": 62,
+    "companyId": 11
+  },
+  {
+    "id": 578,
+    "name": "L&T LED Indicatore (CB913011AW00)",
+    "groupId": 63,
+    "companyId": 11
+  },
+  {
+    "id": 579,
+    "name": "L&T 6A SP MCB BA20100 C",
+    "groupId": 64,
+    "companyId": 11
+  },
+  {
+    "id": 580,
+    "name": "L&T 10A SP MCB BA20100 C",
+    "groupId": 64,
+    "companyId": 11
+  },
+  {
+    "id": 581,
+    "name": "L&T 16A SP MCB BA20100 C",
+    "groupId": 64,
+    "companyId": 11
+  },
+  {
+    "id": 582,
+    "name": "L&T 20A SP MCB BA20100 C",
+    "groupId": 64,
+    "companyId": 11
+  },
+  {
+    "id": 583,
+    "name": "L&T 25A SP MCB BA20100 C",
+    "groupId": 64,
+    "companyId": 11
+  },
+  {
+    "id": 584,
+    "name": "L&T 32A SP MCB BA20100 C",
+    "groupId": 64,
+    "companyId": 11
+  },
+  {
+    "id": 585,
+    "name": "L&T 40A SP MCB BA20100 C",
+    "groupId": 64,
+    "companyId": 11
+  },
+  {
+    "id": 586,
+    "name": "L&T 63A SP MCB BA20100 C",
+    "groupId": 64,
+    "companyId": 11
+  },
+  {
+    "id": 587,
+    "name": "L&T 6A DP MCB BA20100 C",
+    "groupId": 64,
+    "companyId": 11
+  },
+  {
+    "id": 588,
+    "name": "L&T 10A DP MCB BA20100 C",
+    "groupId": 64,
+    "companyId": 11
+  },
+  {
+    "id": 589,
+    "name": "L&T 16A DP MCB BA20100 C",
+    "groupId": 64,
+    "companyId": 11
+  },
+  {
+    "id": 590,
+    "name": "L&T 20A DP MCB BA20100 C",
+    "groupId": 64,
+    "companyId": 11
+  },
+  {
+    "id": 591,
+    "name": "L&T 25A DP MCB BA20100 C",
+    "groupId": 64,
+    "companyId": 11
+  },
+  {
+    "id": 592,
+    "name": "L&T 32A DP MCB BA20100 C",
+    "groupId": 64,
+    "companyId": 11
+  },
+  {
+    "id": 593,
+    "name": "L&T 40A DP MCB BA20100 C",
+    "groupId": 64,
+    "companyId": 11
+  },
+  {
+    "id": 594,
+    "name": "L&T 63A DP MCB BA20100 C",
+    "groupId": 64,
+    "companyId": 11
+  },
+  {
+    "id": 595,
+    "name": "L&T 6A TP MCB BA20100 C",
+    "groupId": 64,
+    "companyId": 11
+  },
+  {
+    "id": 596,
+    "name": "L&T 10A TP MCB BA20100 C",
+    "groupId": 64,
+    "companyId": 11
+  },
+  {
+    "id": 597,
+    "name": "L&T 16A TP MCB BA20100 C",
+    "groupId": 64,
+    "companyId": 11
+  },
+  {
+    "id": 598,
+    "name": "L&T 20A TP MCB BA20100 C",
+    "groupId": 64,
+    "companyId": 11
+  },
+  {
+    "id": 599,
+    "name": "L&T 25A TP MCB BA20100 C",
+    "groupId": 64,
+    "companyId": 11
+  },
+  {
+    "id": 600,
+    "name": "L&T 32A TP MCB BA20100 C",
+    "groupId": 64,
+    "companyId": 11
+  },
+  {
+    "id": 601,
+    "name": "L&T 40A TP MCB BA20100 C",
+    "groupId": 64,
+    "companyId": 11
+  },
+  {
+    "id": 602,
+    "name": "L&T 63A TP MCB BA20100 C",
+    "groupId": 64,
+    "companyId": 11
+  },
+  {
+    "id": 603,
+    "name": "L&T 6A FP MCB BA20100 C",
+    "groupId": 64,
+    "companyId": 11
+  },
+  {
+    "id": 604,
+    "name": "L&T 10A FP MCB BA20100 C",
+    "groupId": 64,
+    "companyId": 11
+  },
+  {
+    "id": 605,
+    "name": "L&T 16A FP MCB BA20100 C",
+    "groupId": 64,
+    "companyId": 11
+  },
+  {
+    "id": 606,
+    "name": "L&T 20A FP MCB BA20100 C",
+    "groupId": 64,
+    "companyId": 11
+  },
+  {
+    "id": 607,
+    "name": "L&T 25A FP MCB BA20100 C",
+    "groupId": 64,
+    "companyId": 11
+  },
+  {
+    "id": 608,
+    "name": "L&T 32A FP MCB BA20100 C",
+    "groupId": 64,
+    "companyId": 11
+  },
+  {
+    "id": 609,
+    "name": "L&T 40A FP MCB BA20100 C",
+    "groupId": 64,
+    "companyId": 11
+  },
+  {
+    "id": 610,
+    "name": "L&T 63A FP MCB BA20100 C",
+    "groupId": 64,
+    "companyId": 11
+  },
+  {
+    "id": 611,
+    "name": "L&T -METAL Box 1",
+    "groupId": 65,
+    "companyId": 11
+  },
+  {
+    "id": 612,
+    "name": "L&T -METAL Box 2",
+    "groupId": 65,
+    "companyId": 11
+  },
+  {
+    "id": 613,
+    "name": "L&T -METAL Box3",
+    "groupId": 65,
+    "companyId": 11
+  },
+  {
+    "id": 614,
+    "name": "L&T -METAL Box 4",
+    "groupId": 65,
+    "companyId": 11
+  },
+  {
+    "id": 615,
+    "name": "L&T -METAL Box 6",
+    "groupId": 65,
+    "companyId": 11
+  },
+  {
+    "id": 616,
+    "name": "L&T -METAL Box 8",
+    "groupId": 65,
+    "companyId": 11
+  },
+  {
+    "id": 617,
+    "name": "L&T -METAL Box 12",
+    "groupId": 65,
+    "companyId": 11
+  },
+  {
+    "id": 618,
+    "name": "L&T -METAL Box 18",
+    "groupId": 65,
+    "companyId": 11
+  },
+  {
+    "id": 619,
+    "name": "L&T - Cover Plate 1",
+    "groupId": 66,
+    "companyId": 11
+  },
+  {
+    "id": 620,
+    "name": "L&T - Cover Plate 2",
+    "groupId": 66,
+    "companyId": 11
+  },
+  {
+    "id": 621,
+    "name": "L&T - Cover Plate 3",
+    "groupId": 66,
+    "companyId": 11
+  },
+  {
+    "id": 622,
+    "name": "L&T - Cover Plate 4",
+    "groupId": 66,
+    "companyId": 11
+  },
+  {
+    "id": 623,
+    "name": "L&T - Cover Plate 6",
+    "groupId": 66,
+    "companyId": 11
+  },
+  {
+    "id": 624,
+    "name": "L&T - Cover Plate 8",
+    "groupId": 66,
+    "companyId": 11
+  },
+  {
+    "id": 625,
+    "name": "L&T - Cover Plate 12",
+    "groupId": 66,
+    "companyId": 11
+  },
+  {
+    "id": 626,
+    "name": "L&T - Cover Plate 16",
+    "groupId": 66,
+    "companyId": 11
+  },
+  {
+    "id": 627,
+    "name": "L&T - Cover Plate 18",
+    "groupId": 66,
+    "companyId": 11
+  },
+  {
+    "id": 628,
+    "name": "L&T - Black Off Unit 1m(CB91201AW00)",
+    "groupId": 67,
+    "companyId": 11
+  },
+  {
+    "id": 629,
+    "name": "L&T 16A Plug Top (OP01W16)",
+    "groupId": 68,
+    "companyId": 11
+  },
+  {
+    "id": 630,
+    "name": "L&T 25 A Plug Top (OP01W25)",
+    "groupId": 68,
+    "companyId": 11
+  },
+  {
+    "id": 631,
+    "name": "L&T 6A Plug Top (OP01W06)",
+    "groupId": 68,
+    "companyId": 11
+  },
+  {
+    "id": 632,
+    "name": "L&T DU125U MCCB (3 Pole) - DSP",
+    "groupId": 68,
+    "companyId": 11
+  },
+  {
+    "id": 633,
+    "name": "L&T MCCB DU100 100A 3P TM",
+    "groupId": 68,
+    "companyId": 11
+  },
+  {
+    "id": 634,
+    "name": "L&T 40A 2P RCCB (30ma)BC204003",
+    "groupId": 69,
+    "companyId": 11
+  },
+  {
+    "id": 635,
+    "name": "L&T 40A 4P RCCB(30ma)",
+    "groupId": 69,
+    "companyId": 11
+  },
+  {
+    "id": 636,
+    "name": "L&T 63A 4P RCCB (30mA)",
+    "groupId": 69,
+    "companyId": 11
+  },
+  {
+    "id": 637,
+    "name": "L&T - 4-Step 1m Regulator (CB91101RW01)",
+    "groupId": 70,
+    "companyId": 11
+  },
+  {
+    "id": 638,
+    "name": "L&T - 5-Step 1M Regulator (CB1102RW02)",
+    "groupId": 70,
+    "companyId": 11
+  },
+  {
+    "id": 639,
+    "name": "L&T - 40A PS40 1P 3WAY WITH OFF ROTRI",
+    "groupId": 71,
+    "companyId": 11
+  },
+  {
+    "id": 640,
+    "name": "L&T- 63A PS63 1P 3WAY WITH OFF ROTTRI",
+    "groupId": 71,
+    "companyId": 11
+  },
+  {
+    "id": 641,
+    "name": "L&T 20 3Pin Socket Metal(MPS320S)",
+    "groupId": 72,
+    "companyId": 11
+  },
+  {
+    "id": 642,
+    "name": "L&T - 20A 3Pin Plug  (MPS320P)",
+    "groupId": 72,
+    "companyId": 11
+  },
+  {
+    "id": 643,
+    "name": "L&T - 2/3 Pin 6A 2M Socket (CB91202)",
+    "groupId": 72,
+    "companyId": 11
+  },
+  {
+    "id": 644,
+    "name": "L&T Tv Socket CB91101",
+    "groupId": 72,
+    "companyId": 11
+  },
+  {
+    "id": 645,
+    "name": "L&T - Lamp Holder (OA03W01)",
+    "groupId": 72,
+    "companyId": 11
+  },
+  {
+    "id": 646,
+    "name": "L&T - Lamp Holder  Angular(OA03W02)",
+    "groupId": 72,
+    "companyId": 11
+  },
+  {
+    "id": 647,
+    "name": "L&T - Lamp Holder  Batten(OA03W03)",
+    "groupId": 72,
+    "companyId": 11
+  },
+  {
+    "id": 648,
+    "name": "L&T - Jumbo Ceilling Rose",
+    "groupId": 72,
+    "companyId": 11
+  },
+  {
+    "id": 649,
+    "name": "L&T 2P 40AM Isolator",
+    "groupId": 73,
+    "companyId": 11
+  },
+  {
+    "id": 650,
+    "name": "L&T 40A FP ISO BE404000",
+    "groupId": 73,
+    "companyId": 11
+  },
+  {
+    "id": 651,
+    "name": "L&T 63A DP ISO BE206300",
+    "groupId": 73,
+    "companyId": 11
+  },
+  {
+    "id": 652,
+    "name": "L&T - 63A FP Isolator (BE406300)",
+    "groupId": 73,
+    "companyId": 11
+  },
+  {
+    "id": 653,
+    "name": "L&T - 10A 1way 1M (CB91102)",
+    "groupId": 74,
+    "companyId": 11
+  },
+  {
+    "id": 654,
+    "name": "L&T 10A 2Way Switch 1M (CB91101SW10)",
+    "groupId": 74,
+    "companyId": 11
+  },
+  {
+    "id": 655,
+    "name": "L&T - 13A Socket 2M (CB91402CW13)",
+    "groupId": 74,
+    "companyId": 11
+  },
+  {
+    "id": 656,
+    "name": "L&T - 16A 1Way Switch 1M (CB91101)",
+    "groupId": 74,
+    "companyId": 11
+  },
+  {
+    "id": 657,
+    "name": "L&T - 6A/16A Socket 2M (CB91302CW16)",
+    "groupId": 74,
+    "companyId": 11
+  },
+  {
+    "id": 658,
+    "name": "L&T - RJ 11 1M(CB91201TW45)",
+    "groupId": 74,
+    "companyId": 11
+  },
+  {
+    "id": 659,
+    "name": "L&T - RJ45 CAT6 1M(CB91101AW45)",
+    "groupId": 74,
+    "companyId": 11
+  },
+  {
+    "id": 660,
+    "name": "LKF - 9\" Metalic Exhaust Fan Grey  Lme09",
+    "groupId": 75,
+    "companyId": 12
+  },
+  {
+    "id": 661,
+    "name": "LKF - Exhaust Fan LX 08",
+    "groupId": 75,
+    "companyId": 12
+  },
+  {
+    "id": 662,
+    "name": "LKF - Exhaust Fan LXC 08 I",
+    "groupId": 75,
+    "companyId": 12
+  },
+  {
+    "id": 663,
+    "name": "LKF - Exhaust Fan LXF 06",
+    "groupId": 75,
+    "companyId": 12
+  },
+  {
+    "id": 664,
+    "name": "LKF - Exhaust Fan LXW 08",
+    "groupId": 75,
+    "companyId": 12
+  },
+  {
+    "id": 665,
+    "name": "LKF * Pedestal Fan LPF 18 T",
+    "groupId": 76,
+    "companyId": 12
+  },
+  {
+    "id": 666,
+    "name": "LKF - Wall Fan LWF18F",
+    "groupId": 77,
+    "companyId": 12
+  },
+  {
+    "id": 667,
+    "name": "LK - LCL08R WH LED Ceiling Light08W RD WH",
+    "groupId": 78,
+    "companyId": 13
+  },
+  {
+    "id": 668,
+    "name": "LK - LCL12R WH (CEILING LIGHT)",
+    "groupId": 78,
+    "companyId": 13
+  },
+  {
+    "id": 669,
+    "name": "LK - LCL12S WH (Ceiling LIght)",
+    "groupId": 78,
+    "companyId": 13
+  },
+  {
+    "id": 670,
+    "name": "LK - LBG03 WH ( Bulb) B22 G",
+    "groupId": 79,
+    "companyId": 13
+  },
+  {
+    "id": 671,
+    "name": "LK - LBGE03 Wh( Bulb)  E 14 WH",
+    "groupId": 79,
+    "companyId": 13
+  },
+  {
+    "id": 672,
+    "name": "LK - LBPC03 WH B22 (LED BULB 3W)",
+    "groupId": 79,
+    "companyId": 13
+  },
+  {
+    "id": 673,
+    "name": "LK - LBPC03 WH CL(Bulb)",
+    "groupId": 79,
+    "companyId": 13
+  },
+  {
+    "id": 674,
+    "name": "LK - LBPC05 B22 WH (LED PC BULB 5W)",
+    "groupId": 79,
+    "companyId": 13
+  },
+  {
+    "id": 675,
+    "name": "LK - LBPC05W WH (Bulb) Cl Mrp:",
+    "groupId": 79,
+    "companyId": 13
+  },
+  {
+    "id": 676,
+    "name": "LK - LBPC07 B22 WH (LED PC BULB 7W)",
+    "groupId": 79,
+    "companyId": 13
+  },
+  {
+    "id": 677,
+    "name": "LK - LBPC07 WH CL (Bulb) MRp:230",
+    "groupId": 79,
+    "companyId": 13
+  },
+  {
+    "id": 678,
+    "name": "LK - LBPC09 WH B22 (LED BULB 9W)",
+    "groupId": 79,
+    "companyId": 13
+  },
+  {
+    "id": 679,
+    "name": "LK - LBPC 09 WH HG(Bulb)",
+    "groupId": 79,
+    "companyId": 13
+  },
+  {
+    "id": 680,
+    "name": "LK - LBPC12 B22WH LED Bulb PC 12W B22WH",
+    "groupId": 79,
+    "companyId": 13
+  },
+  {
+    "id": 681,
+    "name": "LK - LBPC15W WH (LED BULB)",
+    "groupId": 79,
+    "companyId": 13
+  },
+  {
+    "id": 682,
+    "name": "LK - LBPC18 WH (B22WH Bulb)",
+    "groupId": 79,
+    "companyId": 13
+  },
+  {
+    "id": 683,
+    "name": "LK - LBPC36W WH (LED PC BULB)",
+    "groupId": 79,
+    "companyId": 13
+  },
+  {
+    "id": 684,
+    "name": "LK - LBPC48 W (Bulb)",
+    "groupId": 79,
+    "companyId": 13
+  },
+  {
+    "id": 685,
+    "name": "LK - LT505 WH 1FT TS (LED TUBE 1FT)",
+    "groupId": 79,
+    "companyId": 13
+  },
+  {
+    "id": 686,
+    "name": "Lk - LT518 CL(Tube Light)",
+    "groupId": 79,
+    "companyId": 13
+  },
+  {
+    "id": 687,
+    "name": "LK - LT518 WH 4FT T5 (LED TUBE 18W",
+    "groupId": 79,
+    "companyId": 13
+  },
+  {
+    "id": 688,
+    "name": "LK - LT518  WH ECL ( Led Tube T5 4FT CL)",
+    "groupId": 79,
+    "companyId": 13
+  },
+  {
+    "id": 689,
+    "name": "LK - LT818T WH (LED TUBE RETROFIT 18W )",
+    "groupId": 79,
+    "companyId": 13
+  },
+  {
+    "id": 690,
+    "name": "LK - LT818 WH 4FT (TUBE)",
+    "groupId": 79,
+    "companyId": 13
+  },
+  {
+    "id": 691,
+    "name": "LCOB18W WH (LED COB LIGHT) MRP : 3070",
+    "groupId": 80,
+    "companyId": 13
+  },
+  {
+    "id": 692,
+    "name": "LK - LCOB07 W WH(Led Cob Light RD)",
+    "groupId": 80,
+    "companyId": 13
+  },
+  {
+    "id": 693,
+    "name": "LK - LCOB07W WW(COB LIGHT)",
+    "groupId": 80,
+    "companyId": 13
+  },
+  {
+    "id": 694,
+    "name": "LK - LCOBR04 WH (COB Light)",
+    "groupId": 80,
+    "companyId": 13
+  },
+  {
+    "id": 695,
+    "name": "LK - LCOBR 04 WW(COB LIGHT)",
+    "groupId": 80,
+    "companyId": 13
+  },
+  {
+    "id": 696,
+    "name": "LK - LCOBR12 WH (CoB Light)",
+    "groupId": 80,
+    "companyId": 13
+  },
+  {
+    "id": 697,
+    "name": "LK - LCOBR12 WW  (COB Light)",
+    "groupId": 80,
+    "companyId": 13
+  },
+  {
+    "id": 698,
+    "name": "LK - LCOBR18 WH (COB Light)",
+    "groupId": 80,
+    "companyId": 13
+  },
+  {
+    "id": 699,
+    "name": "LK - LCOBR18 WW (Cob Light)",
+    "groupId": 80,
+    "companyId": 13
+  },
+  {
+    "id": 700,
+    "name": "LK - LSCR01 WW (SPOT LIGHT 1W)",
+    "groupId": 80,
+    "companyId": 13
+  },
+  {
+    "id": 701,
+    "name": "LK - LSCR03W WH (SPOT LIGHT)",
+    "groupId": 80,
+    "companyId": 13
+  },
+  {
+    "id": 702,
+    "name": "LK - LSCR03W WW (SPOT LIGHT)",
+    "groupId": 80,
+    "companyId": 13
+  },
+  {
+    "id": 703,
+    "name": "LK - LSCS01W WH (LED SPOT LIGHT)",
+    "groupId": 80,
+    "companyId": 13
+  },
+  {
+    "id": 704,
+    "name": "LK - LSCS01W WW (LED SPOT LIGHT)",
+    "groupId": 80,
+    "companyId": 13
+  },
+  {
+    "id": 705,
+    "name": "LK - LSP07 WH (LED FOCUS 7W)",
+    "groupId": 80,
+    "companyId": 13
+  },
+  {
+    "id": 706,
+    "name": "LK - LSP18 WH(Fous Light)",
+    "groupId": 80,
+    "companyId": 13
+  },
+  {
+    "id": 707,
+    "name": "LK - Lzcob18 WH (Zoom Light)",
+    "groupId": 80,
+    "companyId": 13
+  },
+  {
+    "id": 708,
+    "name": "LK - LZCOB18W WW Zoom Light",
+    "groupId": 80,
+    "companyId": 13
+  },
+  {
+    "id": 709,
+    "name": "LK - LZCOB35W",
+    "groupId": 80,
+    "companyId": 13
+  },
+  {
+    "id": 710,
+    "name": "LK - LCOBR01 WW",
+    "groupId": 80,
+    "companyId": 13
+  },
+  {
+    "id": 711,
+    "name": "LK - LCOBR01 WH",
+    "groupId": 80,
+    "companyId": 13
+  },
+  {
+    "id": 712,
+    "name": "ARchitech Light LMR09 WW",
+    "groupId": 81,
+    "companyId": 13
+  },
+  {
+    "id": 713,
+    "name": "Bulkhead Lights Out Door 10W Sq WH",
+    "groupId": 81,
+    "companyId": 13
+  },
+  {
+    "id": 714,
+    "name": "Gate Light Outdoor 12W Rd WW",
+    "groupId": 81,
+    "companyId": 13
+  },
+  {
+    "id": 715,
+    "name": "Gate Light Outdoor 12W Sq WW",
+    "groupId": 81,
+    "companyId": 13
+  },
+  {
+    "id": 716,
+    "name": "Gate Lights Outdoor 05 W S WW",
+    "groupId": 81,
+    "companyId": 13
+  },
+  {
+    "id": 717,
+    "name": "LK - LAMPS 07W WW ( Aether Indoor Wall)",
+    "groupId": 81,
+    "companyId": 13
+  },
+  {
+    "id": 718,
+    "name": "LK - LODCLSE - 27 WH (LED Bulkhead Lightsr) 10W",
+    "groupId": 81,
+    "companyId": 13
+  },
+  {
+    "id": 719,
+    "name": "LK - LODUPDGU10 WW ( Wall, Out Door Up& Down 2x6",
+    "groupId": 81,
+    "companyId": 13
+  },
+  {
+    "id": 720,
+    "name": "LK- LODWS205 WW Outdoor Light 10W",
+    "groupId": 81,
+    "companyId": 13
+  },
+  {
+    "id": 721,
+    "name": "LK - Lspt 12 WH (Track Light)",
+    "groupId": 81,
+    "companyId": 13
+  },
+  {
+    "id": 722,
+    "name": "LK - LPR03W WH R (LED SLIM PANEL 3 W)",
+    "groupId": 82,
+    "companyId": 13
+  },
+  {
+    "id": 723,
+    "name": "LK - LPR06W WH (LED SLIM PANEL 6 W)",
+    "groupId": 82,
+    "companyId": 13
+  },
+  {
+    "id": 724,
+    "name": "LK - LPR06 WW (LED SLIM PANEL)",
+    "groupId": 82,
+    "companyId": 13
+  },
+  {
+    "id": 725,
+    "name": "LK - LPR09 WH (LED SLIM PANEL 9W)",
+    "groupId": 82,
+    "companyId": 13
+  },
+  {
+    "id": 726,
+    "name": "LK - LPR09 WW (LED SLIM PANEL 18W)",
+    "groupId": 82,
+    "companyId": 13
+  },
+  {
+    "id": 727,
+    "name": "LK - LPR12 W WH (LED SLIM PANEL 12 W)",
+    "groupId": 82,
+    "companyId": 13
+  },
+  {
+    "id": 728,
+    "name": "LK - LPR15 W WH(Slim Panel)",
+    "groupId": 82,
+    "companyId": 13
+  },
+  {
+    "id": 729,
+    "name": "LK - LPR18W WH R (LED SLIM PANEL 18W)",
+    "groupId": 82,
+    "companyId": 13
+  },
+  {
+    "id": 730,
+    "name": "LK - LPS03 W WH S (LED SLIM PANEL)",
+    "groupId": 82,
+    "companyId": 13
+  },
+  {
+    "id": 731,
+    "name": "LK - LPS03 W WW (Slim Panel)",
+    "groupId": 82,
+    "companyId": 13
+  },
+  {
+    "id": 732,
+    "name": "LK - LPS06 W WH S (LED SLIM PANEL 6 W)",
+    "groupId": 82,
+    "companyId": 13
+  },
+  {
+    "id": 733,
+    "name": "LK - LPS06 W WW S (LED SLIM PANEL 6 W)",
+    "groupId": 82,
+    "companyId": 13
+  },
+  {
+    "id": 734,
+    "name": "LK - LPS09 WW (LED SLIM PANEL )",
+    "groupId": 82,
+    "companyId": 13
+  },
+  {
+    "id": 735,
+    "name": "LK - LPS12W WH S (LED SLIM PANEL 12W)",
+    "groupId": 82,
+    "companyId": 13
+  },
+  {
+    "id": 736,
+    "name": "LK - LPS12W WW S (LED SLIM PANEL 12W)",
+    "groupId": 82,
+    "companyId": 13
+  },
+  {
+    "id": 737,
+    "name": "LK- LPS12W WW (Slim Panel)",
+    "groupId": 82,
+    "companyId": 13
+  },
+  {
+    "id": 738,
+    "name": "LK - LPS15 W WH (Slim Panel)",
+    "groupId": 82,
+    "companyId": 13
+  },
+  {
+    "id": 739,
+    "name": "LK - LPS 15 W WW (Slim Panel)",
+    "groupId": 82,
+    "companyId": 13
+  },
+  {
+    "id": 740,
+    "name": "LK - LPS18W WH S (LED SLIM PANEL 18W)",
+    "groupId": 82,
+    "companyId": 13
+  },
+  {
+    "id": 741,
+    "name": "LK - Lps24 NW (Slim Panel) 24 Sq NW",
+    "groupId": 82,
+    "companyId": 13
+  },
+  {
+    "id": 742,
+    "name": "LK - LPS 24 WH (LED SLIM PANEL 24W)",
+    "groupId": 82,
+    "companyId": 13
+  },
+  {
+    "id": 743,
+    "name": "LK - LPS24 WW Slim Panel",
+    "groupId": 82,
+    "companyId": 13
+  },
+  {
+    "id": 744,
+    "name": "LK - LPS 40 WH LED Slim Panel 40W SQ WH",
+    "groupId": 82,
+    "companyId": 13
+  },
+  {
+    "id": 745,
+    "name": "LK - LPSRR 06W Wh(Surface Panel 06)",
+    "groupId": 82,
+    "companyId": 13
+  },
+  {
+    "id": 746,
+    "name": "LK - LPSRR12 NW (Surface Panel) 12W RD NW",
+    "groupId": 82,
+    "companyId": 13
+  },
+  {
+    "id": 747,
+    "name": "LK - LPSRR12W WH R (LED SURFACE 12 W)",
+    "groupId": 82,
+    "companyId": 13
+  },
+  {
+    "id": 748,
+    "name": "LK - LPSRR12W WW R (LED SURFACE PANEL 12 W)",
+    "groupId": 82,
+    "companyId": 13
+  },
+  {
+    "id": 749,
+    "name": "LK - LPSRR18W NW (Surface Panel) Rd",
+    "groupId": 82,
+    "companyId": 13
+  },
+  {
+    "id": 750,
+    "name": "LK - LPSRR18W WH R (LED SURFACE PANEL 18 W)",
+    "groupId": 82,
+    "companyId": 13
+  },
+  {
+    "id": 751,
+    "name": "LK - Lpsrs06 (Surface Panel) WH",
+    "groupId": 82,
+    "companyId": 13
+  },
+  {
+    "id": 752,
+    "name": "LK- LPSRS12W (LED SURFACE PANEL 12 W)",
+    "groupId": 82,
+    "companyId": 13
+  },
+  {
+    "id": 753,
+    "name": "LK - LPSRS40 W WH (Surface Panel) SQ",
+    "groupId": 82,
+    "companyId": 13
+  },
+  {
+    "id": 754,
+    "name": "LK- LPSRS48 W WH (Srurface Panesl)",
+    "groupId": 82,
+    "companyId": 13
+  },
+  {
+    "id": 755,
+    "name": "LPRS18 WH (Surface Panel) Mrp:2270",
+    "groupId": 82,
+    "companyId": 13
+  },
+  {
+    "id": 756,
+    "name": "LBHY 100 WH Led Highbay Light Ind 100W WH",
+    "groupId": 83,
+    "companyId": 13
+  },
+  {
+    "id": 757,
+    "name": "LFL30 WW LED Flood Light 030w WW",
+    "groupId": 83,
+    "companyId": 13
+  },
+  {
+    "id": 758,
+    "name": "LK - LFL 10W WH(Flood Light)",
+    "groupId": 83,
+    "companyId": 13
+  },
+  {
+    "id": 759,
+    "name": "LK - LFL20W WH NEW (LED FLOOD LIGHT)",
+    "groupId": 83,
+    "companyId": 13
+  },
+  {
+    "id": 760,
+    "name": "LK - LFL30 WH LED Flood Light 030w WH",
+    "groupId": 83,
+    "companyId": 13
+  },
+  {
+    "id": 761,
+    "name": "LK - LFL50W WH (LED FLOOD LIGHT 50W)",
+    "groupId": 83,
+    "companyId": 13
+  },
+  {
+    "id": 762,
+    "name": "LK - LST015 Wh (Street Light)",
+    "groupId": 83,
+    "companyId": 13
+  },
+  {
+    "id": 763,
+    "name": "LK - LST024 WH (Street Light)  Luker",
+    "groupId": 83,
+    "companyId": 13
+  },
+  {
+    "id": 764,
+    "name": "LK - LST048 WH(STREET LIGHT)",
+    "groupId": 83,
+    "companyId": 13
+  },
+  {
+    "id": 765,
+    "name": "LK - LST 36 Wh(Street Light)",
+    "groupId": 83,
+    "companyId": 13
+  },
+  {
+    "id": 766,
+    "name": "LK - LS2835 6W WH (LED STRIP 6 W)",
+    "groupId": 84,
+    "companyId": 13
+  },
+  {
+    "id": 767,
+    "name": "LK - LS2835 Bl(Strip Light)",
+    "groupId": 84,
+    "companyId": 13
+  },
+  {
+    "id": 768,
+    "name": "LK - LS2835 (Stip Light 06W) GR",
+    "groupId": 84,
+    "companyId": 13
+  },
+  {
+    "id": 769,
+    "name": "LK - Ls2835 WW 06 (Strip Light)",
+    "groupId": 84,
+    "companyId": 13
+  },
+  {
+    "id": 770,
+    "name": "LK - LS5050 BL (LED STRIP 14.6W)",
+    "groupId": 84,
+    "companyId": 13
+  },
+  {
+    "id": 771,
+    "name": "LK - LS5050 Wh (Led Strip Light 14.6W)",
+    "groupId": 84,
+    "companyId": 13
+  },
+  {
+    "id": 772,
+    "name": "LK - LS5050 WW (LED STRIP 14.6W (MTR)",
+    "groupId": 84,
+    "companyId": 13
+  },
+  {
+    "id": 773,
+    "name": "LK - LSD03 AMPS (LED STRIP DRIVER 3 AMPS)",
+    "groupId": 84,
+    "companyId": 13
+  },
+  {
+    "id": 774,
+    "name": "LK - LSD05 AMPS (STRIP DRIVER)",
+    "groupId": 84,
+    "companyId": 13
+  },
+  {
+    "id": 775,
+    "name": "LK - LSD12.5 AMPS (STRIP DRIVER)",
+    "groupId": 84,
+    "companyId": 13
+  },
+  {
+    "id": 776,
+    "name": "LK - LSI5050 RGB NEW (LED STRIP 14 6W)",
+    "groupId": 84,
+    "companyId": 13
+  },
+  {
+    "id": 777,
+    "name": "LK - LSO5050 WH ( Strip Light 14.6W) Outdoor",
+    "groupId": 84,
+    "companyId": 13
+  },
+  {
+    "id": 778,
+    "name": "LK - LDR 03 W (Downlight) BL",
+    "groupId": 85,
+    "companyId": 13
+  },
+  {
+    "id": 779,
+    "name": "LK - LDR 03W  GR (Downlight)",
+    "groupId": 85,
+    "companyId": 13
+  },
+  {
+    "id": 780,
+    "name": "LK - LDR03 WH (Down Light 03 R)",
+    "groupId": 85,
+    "companyId": 13
+  },
+  {
+    "id": 781,
+    "name": "LK - LDR 03 W WW (Down Light)",
+    "groupId": 85,
+    "companyId": 13
+  },
+  {
+    "id": 782,
+    "name": "LK - LDR 15 W WH R (LED DOWN LIGHT 15W)",
+    "groupId": 85,
+    "companyId": 13
+  },
+  {
+    "id": 783,
+    "name": "LK - LDR15W WW R (LED DOWN LIGHT 15W)",
+    "groupId": 85,
+    "companyId": 13
+  },
+  {
+    "id": 784,
+    "name": "LUM FAN - 1050mm Kraft White",
+    "groupId": 86,
+    "companyId": 14
+  },
+  {
+    "id": 785,
+    "name": "LUM FAN - 1050 mm Rapid C.F Cherr",
+    "groupId": 86,
+    "companyId": 14
+  },
+  {
+    "id": 786,
+    "name": "LUM FAN - 1200 mm Amaze C.F M Gold",
+    "groupId": 86,
+    "companyId": 14
+  },
+  {
+    "id": 787,
+    "name": "LUM FAN  - 1200 mm Artitude C.Fan Leaf Gold",
+    "groupId": 86,
+    "companyId": 14
+  },
+  {
+    "id": 788,
+    "name": "LUM FAN - 1200 mm Artitude C.Fan Rose Gold",
+    "groupId": 86,
+    "companyId": 14
+  },
+  {
+    "id": 789,
+    "name": "LUM FAN - 1200 mm Audie C.Fan Berry Red",
+    "groupId": 86,
+    "companyId": 14
+  },
+  {
+    "id": 790,
+    "name": "LUM FAN - 1200 mm Audie C.Fan Charcoal Black",
+    "groupId": 86,
+    "companyId": 14
+  },
+  {
+    "id": 791,
+    "name": "LUM FAN - 1200 mm Audie C.Fan Cocoa Brown",
+    "groupId": 86,
+    "companyId": 14
+  },
+  {
+    "id": 792,
+    "name": "LUM FAN - 1200 mm Audie C.Fan Cool Blu Silver",
+    "groupId": 86,
+    "companyId": 14
+  },
+  {
+    "id": 793,
+    "name": "LUM FAN - 1200 mm Audie C.Fan Mirage White",
+    "groupId": 86,
+    "companyId": 14
+  },
+  {
+    "id": 794,
+    "name": "LUM FAN - 1200mm Audie C.F Berkelet Gold",
+    "groupId": 86,
+    "companyId": 14
+  },
+  {
+    "id": 795,
+    "name": "LUM FAN - 1200 mm Audie C.F Butter Cream",
+    "groupId": 86,
+    "companyId": 14
+  },
+  {
+    "id": 796,
+    "name": "LUM FAN - 1200mm Blissair C.F Choco",
+    "groupId": 86,
+    "companyId": 14
+  },
+  {
+    "id": 797,
+    "name": "LUM FAN - 1200 mm Blissair W/ring C.Fan Choco",
+    "groupId": 86,
+    "companyId": 14
+  },
+  {
+    "id": 798,
+    "name": "LUM FAN - 1200 mm C.Fan Klasse M.Brown",
+    "groupId": 86,
+    "companyId": 14
+  },
+  {
+    "id": 799,
+    "name": "LUM FAN - 1200mm Copter C.Fan Carmel Khaki",
+    "groupId": 86,
+    "companyId": 14
+  },
+  {
+    "id": 800,
+    "name": "LUM FAN - 1200mm Copter C.Fan Dusky Silver",
+    "groupId": 86,
+    "companyId": 14
+  },
+  {
+    "id": 801,
+    "name": "LUM FAN - 1200 mm Copter C.Fan Espresso",
+    "groupId": 86,
+    "companyId": 14
+  },
+  {
+    "id": 802,
+    "name": "LUM FAN - 1200 mm Copter C.Fan Silent Blue",
+    "groupId": 86,
+    "companyId": 14
+  },
+  {
+    "id": 803,
+    "name": "LUM FAN - 1200MM Deltoid Ceiling Fan Espresso Gold",
+    "groupId": 86,
+    "companyId": 14
+  },
+  {
+    "id": 804,
+    "name": "LUM FAN - 1200MM Deltoid Ceiling Fan Silver Chrome",
+    "groupId": 86,
+    "companyId": 14
+  },
+  {
+    "id": 805,
+    "name": "LUM FAN - 1200 mm Deltoid C.Fan Magnet",
+    "groupId": 86,
+    "companyId": 14
+  },
+  {
+    "id": 806,
+    "name": "LUM FAN - 1200 mm Deltoid C.Fan Silky White",
+    "groupId": 86,
+    "companyId": 14
+  },
+  {
+    "id": 807,
+    "name": "LUM FAN - 1200 mm Dhoom C.Fan Brown",
+    "groupId": 86,
+    "companyId": 14
+  },
+  {
+    "id": 808,
+    "name": "LUM FAN - 1200 mm Dhoom C.Fan Ivory",
+    "groupId": 86,
+    "companyId": 14
+  },
+  {
+    "id": 809,
+    "name": "LUM FAN - 1200 mm Dhoom C.Fan White",
+    "groupId": 86,
+    "companyId": 14
+  },
+  {
+    "id": 810,
+    "name": "LUM FAN - 1200 mm Dreamz C.Fan All Day Topaz",
+    "groupId": 86,
+    "companyId": 14
+  },
+  {
+    "id": 811,
+    "name": "LUM FAN - 1200 mm Dreamz C.Fan Midnigt Sun",
+    "groupId": 86,
+    "companyId": 14
+  },
+  {
+    "id": 812,
+    "name": "LUM FAN - 1200 mm Dreamz C.Fan MistGrey",
+    "groupId": 86,
+    "companyId": 14
+  },
+  {
+    "id": 813,
+    "name": "LUM FAN - 1200 mm Dreamz C.Fan Mossgren Noon",
+    "groupId": 86,
+    "companyId": 14
+  },
+  {
+    "id": 814,
+    "name": "LUM FAN - 1200 mm Dreamz C.Fan Orchid Freash",
+    "groupId": 86,
+    "companyId": 14
+  },
+  {
+    "id": 815,
+    "name": "LUM FAN - 1200 mm Dummy Copter Espresso Copper",
+    "groupId": 86,
+    "companyId": 14
+  },
+  {
+    "id": 816,
+    "name": "LUM FAN - 1200 mm Ecstacy C.F Jade Gold",
+    "groupId": 86,
+    "companyId": 14
+  },
+  {
+    "id": 817,
+    "name": "LUM FAN - 1200 mm Ecstacy C.F Pearl Diamond",
+    "groupId": 86,
+    "companyId": 14
+  },
+  {
+    "id": 818,
+    "name": "LUM FAN - 1200 mm Ecstacy C.F Ruby Bronze",
+    "groupId": 86,
+    "companyId": 14
+  },
+  {
+    "id": 819,
+    "name": "LUM FAN - 1200mm Ecstacy C.F Sapphire Silver",
+    "groupId": 86,
+    "companyId": 14
+  },
+  {
+    "id": 820,
+    "name": "LUM FAN - 1200mm Enchante C.Fan Ant Nickel",
+    "groupId": 86,
+    "companyId": 14
+  },
+  {
+    "id": 821,
+    "name": "LUM FAN - 1200 mm Enchante C.F Ant.Brass",
+    "groupId": 86,
+    "companyId": 14
+  },
+  {
+    "id": 822,
+    "name": "LUM FAN - 1200mm Enchante C.F Ant.Copper",
+    "groupId": 86,
+    "companyId": 14
+  },
+  {
+    "id": 823,
+    "name": "LUM FAN - 1200mm Enchante C.F Woods",
+    "groupId": 86,
+    "companyId": 14
+  },
+  {
+    "id": 824,
+    "name": "LUM FAN - 1200mm Gloria C.Fan Sand Gold",
+    "groupId": 86,
+    "companyId": 14
+  },
+  {
+    "id": 825,
+    "name": "LUM FAN - 1200 mm Gloria C.F Dusky Brown",
+    "groupId": 86,
+    "companyId": 14
+  },
+  {
+    "id": 826,
+    "name": "LUM FAN - 1200 mm God Bless C.Fan Ardass",
+    "groupId": 86,
+    "companyId": 14
+  },
+  {
+    "id": 827,
+    "name": "LUM FAN - 1200 mm God Bless C.Fan Ibadat",
+    "groupId": 86,
+    "companyId": 14
+  },
+  {
+    "id": 828,
+    "name": "LUM FAN - 1200 mm God Bless C.Fan Prarthana",
+    "groupId": 86,
+    "companyId": 14
+  },
+  {
+    "id": 829,
+    "name": "LUM FAN - 1200 mm Hi Air C.Fan Ceder Brown",
+    "groupId": 86,
+    "companyId": 14
+  },
+  {
+    "id": 830,
+    "name": "LUM FAN - 1200 mm Hi Air C.Fan Mint White",
+    "groupId": 86,
+    "companyId": 14
+  },
+  {
+    "id": 831,
+    "name": "LUM FAN - 1200 mm Hi Air Classic C Fan Ivory",
+    "groupId": 86,
+    "companyId": 14
+  },
+  {
+    "id": 832,
+    "name": "LUM FAN - 1200 mm Hi Air Classic C Fan Mint White",
+    "groupId": 86,
+    "companyId": 14
+  },
+  {
+    "id": 833,
+    "name": "LUM FAN - 1200 mm Hi Air Classic C.F Cedar Brown",
+    "groupId": 86,
+    "companyId": 14
+  },
+  {
+    "id": 834,
+    "name": "LUM FAN - 1200 mm Inspire C.Fan Brushed Brass",
+    "groupId": 86,
+    "companyId": 14
+  },
+  {
+    "id": 835,
+    "name": "LUM FAN - 1200 mm Inspire C.Fan Brushed Copper",
+    "groupId": 86,
+    "companyId": 14
+  },
+  {
+    "id": 836,
+    "name": "LUM FAN - 1200 mm Josh Fan White D/s",
+    "groupId": 86,
+    "companyId": 14
+  },
+  {
+    "id": 837,
+    "name": "LUM FAN - 1200 mm Klasse Dark Fantasy",
+    "groupId": 86,
+    "companyId": 14
+  },
+  {
+    "id": 838,
+    "name": "LUM FAN - 1200 mm Kooler C.Fan Cerry Red",
+    "groupId": 86,
+    "companyId": 14
+  },
+  {
+    "id": 839,
+    "name": "LUM FAN - 1200 mm Kooler C.F P Cream",
+    "groupId": 86,
+    "companyId": 14
+  },
+  {
+    "id": 840,
+    "name": "LUM FAN - 1200 mm Kraze  C.Fan Bianco",
+    "groupId": 86,
+    "companyId": 14
+  },
+  {
+    "id": 841,
+    "name": "LUM FAN - 1200 mm Kraze C.Fan Brown",
+    "groupId": 86,
+    "companyId": 14
+  },
+  {
+    "id": 842,
+    "name": "LUM FAN - 1200 mm Kraze C.Fan Ivory",
+    "groupId": 86,
+    "companyId": 14
+  },
+  {
+    "id": 843,
+    "name": "LUM FAN - 1200 mm Kraze C.Fan White",
+    "groupId": 86,
+    "companyId": 14
+  },
+  {
+    "id": 844,
+    "name": "LUM FAN - 1200 mm Krazy C.Fan Coffe Brown",
+    "groupId": 86,
+    "companyId": 14
+  },
+  {
+    "id": 845,
+    "name": "LUM FAN - 1200 mm Krazy C.Fan White",
+    "groupId": 86,
+    "companyId": 14
+  },
+  {
+    "id": 846,
+    "name": "LUM FAN - 1200 mm Krazy C.Fa Pearl Cream",
+    "groupId": 86,
+    "companyId": 14
+  },
+  {
+    "id": 847,
+    "name": "LUM FAN - 1200 mm Krona C.Fan Caramel",
+    "groupId": 86,
+    "companyId": 14
+  },
+  {
+    "id": 848,
+    "name": "LUM FAN - 1200 mm Krona C.Fan Cool Grey",
+    "groupId": 86,
+    "companyId": 14
+  },
+  {
+    "id": 849,
+    "name": "LUM FAN - 1200mm Krona C.Fan Ivory",
+    "groupId": 86,
+    "companyId": 14
+  },
+  {
+    "id": 850,
+    "name": "LUM FAN - 1200mm Krona C.Fan Lavander",
+    "groupId": 86,
+    "companyId": 14
+  },
+  {
+    "id": 851,
+    "name": "LUM FAN - 1200mm Krona C.Fan Silver Shine",
+    "groupId": 86,
+    "companyId": 14
+  },
+  {
+    "id": 852,
+    "name": "LUM FAN - 1200 mm Krona C.F Barn Red",
+    "groupId": 86,
+    "companyId": 14
+  },
+  {
+    "id": 853,
+    "name": "LUM FAN - 1200MM Lite Air C Fan Kraft Wood",
+    "groupId": 86,
+    "companyId": 14
+  },
+  {
+    "id": 854,
+    "name": "LUM FAN - 1200 mm Lumaire C.Fan Mint Whit",
+    "groupId": 86,
+    "companyId": 14
+  },
+  {
+    "id": 855,
+    "name": "LUM FAN - 1200mm Lumaire C.Fan Silky Gold",
+    "groupId": 86,
+    "companyId": 14
+  },
+  {
+    "id": 856,
+    "name": "LUM FAN - 1200 mm  Lumaire C.F Wine Red",
+    "groupId": 86,
+    "companyId": 14
+  },
+  {
+    "id": 857,
+    "name": "LUM FAN - 1200 mm Lum C.F Wine Red",
+    "groupId": 86,
+    "companyId": 14
+  },
+  {
+    "id": 858,
+    "name": "LUM FAN - 1200 mm Lum Dreamz C.Fan Eve Blue",
+    "groupId": 86,
+    "companyId": 14
+  },
+  {
+    "id": 859,
+    "name": "LUM FAN - 1200 mm  Lum Sunday C.F TZ",
+    "groupId": 86,
+    "companyId": 14
+  },
+  {
+    "id": 860,
+    "name": "LUM FAN - 1200mm Outlander C.Fan Decora Wood",
+    "groupId": 86,
+    "companyId": 14
+  },
+  {
+    "id": 861,
+    "name": "LUM FAN - 1200 mm Outlander C.F Blue Chase",
+    "groupId": 86,
+    "companyId": 14
+  },
+  {
+    "id": 862,
+    "name": "LUM FAN - 1200 mm Outlander C.F Fawn Dream",
+    "groupId": 86,
+    "companyId": 14
+  },
+  {
+    "id": 863,
+    "name": "LUM FAN - 1200mm Outlander C.F White",
+    "groupId": 86,
+    "companyId": 14
+  },
+  {
+    "id": 864,
+    "name": "LUM FAN - 1200 mm Platina C.Fan Harbour Wind",
+    "groupId": 86,
+    "companyId": 14
+  },
+  {
+    "id": 865,
+    "name": "LUM FAN - 1200 mm Play C.Fan ABCD",
+    "groupId": 86,
+    "companyId": 14
+  },
+  {
+    "id": 866,
+    "name": "LUM FAN - 1200 mm Play C.Fan Car",
+    "groupId": 86,
+    "companyId": 14
+  },
+  {
+    "id": 867,
+    "name": "LUM FAN - 1200 mm Play C.Fan Cricket",
+    "groupId": 86,
+    "companyId": 14
+  },
+  {
+    "id": 868,
+    "name": "LUM FAN - 1200 mm Play C.Fan Doll",
+    "groupId": 86,
+    "companyId": 14
+  },
+  {
+    "id": 869,
+    "name": "LUM FAN - 1200 mm Play C Fan Humpty Dumpty",
+    "groupId": 86,
+    "companyId": 14
+  },
+  {
+    "id": 870,
+    "name": "LUM FAN - 1200 mm Play C.Fan Jack & Jill",
+    "groupId": 86,
+    "companyId": 14
+  },
+  {
+    "id": 871,
+    "name": "LUM FAN - 1200 mm Play C.Fan Twinkle Twikle",
+    "groupId": 86,
+    "companyId": 14
+  },
+  {
+    "id": 872,
+    "name": "LUM FAN - 1200 mm Poem C.Fan Dark Fantasy",
+    "groupId": 86,
+    "companyId": 14
+  },
+  {
+    "id": 873,
+    "name": "LUM FAN - 1200 mm Poem C.Fan M Ch Gold",
+    "groupId": 86,
+    "companyId": 14
+  },
+  {
+    "id": 874,
+    "name": "LUM FAN - 1200 mm Poem C.Fan Mi Grey",
+    "groupId": 86,
+    "companyId": 14
+  },
+  {
+    "id": 875,
+    "name": "LUM FAN - 1200 mm Poem C.Fan Re Earth",
+    "groupId": 86,
+    "companyId": 14
+  },
+  {
+    "id": 876,
+    "name": "LUM FAN - 1200 mm Poem C.F Wine Red",
+    "groupId": 86,
+    "companyId": 14
+  },
+  {
+    "id": 877,
+    "name": "LUM FAN - 1200 mm Poem Wine Red D/s",
+    "groupId": 86,
+    "companyId": 14
+  },
+  {
+    "id": 878,
+    "name": "LUM FAN - 1200 mm Pulse50 C.Fan Mid Buff G 5star",
+    "groupId": 86,
+    "companyId": 14
+  },
+  {
+    "id": 879,
+    "name": "LUM FAN - 1200 mm Pulse 50 C.Fan Wh 5star",
+    "groupId": 86,
+    "companyId": 14
+  },
+  {
+    "id": 880,
+    "name": "LUM FAN - 1200 MM Pulse 50 C.F Matt BR 5 Star",
+    "groupId": 86,
+    "companyId": 14
+  },
+  {
+    "id": 881,
+    "name": "LUM FAN -  1200 mm Rapid C.Fan Cerry Brown",
+    "groupId": 86,
+    "companyId": 14
+  },
+  {
+    "id": 882,
+    "name": "LUM FAN  - 1200 mm Rapid C.Fan Cheste White",
+    "groupId": 86,
+    "companyId": 14
+  },
+  {
+    "id": 883,
+    "name": "LUM FAN - 1200 mm Rapid C.Fan Pearl Cream",
+    "groupId": 86,
+    "companyId": 14
+  },
+  {
+    "id": 884,
+    "name": "LUM FAN - 1200MM Raptor Ceiling Fan Chrome White",
+    "groupId": 86,
+    "companyId": 14
+  },
+  {
+    "id": 885,
+    "name": "LUM FAN - 1200 MM Thetis C.Fan Lylac Smoke",
+    "groupId": 86,
+    "companyId": 14
+  },
+  {
+    "id": 886,
+    "name": "LUM FAN - 1200 mm Thetis C.F Forth Gold",
+    "groupId": 86,
+    "companyId": 14
+  },
+  {
+    "id": 887,
+    "name": "LUM FAN - 1200 mm Thetis C.F Silica Dust",
+    "groupId": 86,
+    "companyId": 14
+  },
+  {
+    "id": 888,
+    "name": "LUM FAN - 1200 mm Trigon C.Fan Magnet Grey",
+    "groupId": 86,
+    "companyId": 14
+  },
+  {
+    "id": 889,
+    "name": "LUM FAN -  1200 mm Trigon C.Fan Sandstrom Gold",
+    "groupId": 86,
+    "companyId": 14
+  },
+  {
+    "id": 890,
+    "name": "LUM FAN - 1200 mm Trigon C.Fan Silver White",
+    "groupId": 86,
+    "companyId": 14
+  },
+  {
+    "id": 891,
+    "name": "LUM FAN - 1200 mm Trigon Dummy C.Fan Sandstrom Gold",
+    "groupId": 86,
+    "companyId": 14
+  },
+  {
+    "id": 892,
+    "name": "LUM FAN - 1200 mm Trigon Dummy C.Fan Silver White",
+    "groupId": 86,
+    "companyId": 14
+  },
+  {
+    "id": 893,
+    "name": "LUM FAN - 1200 mm Twinkle C.Fan C.Green",
+    "groupId": 86,
+    "companyId": 14
+  },
+  {
+    "id": 894,
+    "name": "LUM FAN - 1200 mm Twinkle C.Fan Choco Brown",
+    "groupId": 86,
+    "companyId": 14
+  },
+  {
+    "id": 895,
+    "name": "LUM FAN - 1200 mm Twinkle C.Fan D.Indigo",
+    "groupId": 86,
+    "companyId": 14
+  },
+  {
+    "id": 896,
+    "name": "LUM FAN - 1200 mm Twinkle C.Fan SS Grey",
+    "groupId": 86,
+    "companyId": 14
+  },
+  {
+    "id": 897,
+    "name": "LUM FAN - 1200mm Twinkle Ch Brown Dummy Stand",
+    "groupId": 86,
+    "companyId": 14
+  },
+  {
+    "id": 898,
+    "name": "LUM FAN - 1200mm Twinkle Lum C.F Ivory",
+    "groupId": 86,
+    "companyId": 14
+  },
+  {
+    "id": 899,
+    "name": "LUM FAN - 1200 mm Warrior C.Fan Champagne Gld",
+    "groupId": 86,
+    "companyId": 14
+  },
+  {
+    "id": 900,
+    "name": "LUM FAN - 1200 mm Warrior C.Fan Midnight Blue",
+    "groupId": 86,
+    "companyId": 14
+  },
+  {
+    "id": 901,
+    "name": "LUM FAN - 1200 mm Warrior C.Fan Symphony Gold",
+    "groupId": 86,
+    "companyId": 14
+  },
+  {
+    "id": 902,
+    "name": "LUM FAN - 1200 mm Warrior C.F Silver White",
+    "groupId": 86,
+    "companyId": 14
+  },
+  {
+    "id": 903,
+    "name": "LUM FAN- 1220 mm Hi Air Desert Storm C.Fan C. Brown",
+    "groupId": 86,
+    "companyId": 14
+  },
+  {
+    "id": 904,
+    "name": "LUM FAN - 1300 mm  Obession C.Fan Copper",
+    "groupId": 86,
+    "companyId": 14
+  },
+  {
+    "id": 905,
+    "name": "LUM FAN - 1320 mm Lumero C.Fan Surf White",
+    "groupId": 86,
+    "companyId": 14
+  },
+  {
+    "id": 906,
+    "name": "LUM FAN - 1320mm Lum Luxreeza C Fan Sapphire Black",
+    "groupId": 86,
+    "companyId": 14
+  },
+  {
+    "id": 907,
+    "name": "LUM FAN - 1400 mm Amaze C.Fan M Gold",
+    "groupId": 86,
+    "companyId": 14
+  },
+  {
+    "id": 908,
+    "name": "LUM FAN - 1400mm Amaze C.F M Ivory",
+    "groupId": 86,
+    "companyId": 14
+  },
+  {
+    "id": 909,
+    "name": "LUM FAN - 1400mm Audie C.Fan Mirage White",
+    "groupId": 86,
+    "companyId": 14
+  },
+  {
+    "id": 910,
+    "name": "LUM FAN - 1400 mm Lum Rapid C.F Cherr",
+    "groupId": 86,
+    "companyId": 14
+  },
+  {
+    "id": 911,
+    "name": "LUM FAN - 600mm Audie C.Fan Butter Cream",
+    "groupId": 86,
+    "companyId": 14
+  },
+  {
+    "id": 912,
+    "name": "LUM FAN - 600mm Audie C.Fan Mirage White",
+    "groupId": 86,
+    "companyId": 14
+  },
+  {
+    "id": 913,
+    "name": "LUM FAN - 600 mm Hi Air Classic C.Fan Cedar Brown",
+    "groupId": 86,
+    "companyId": 14
+  },
+  {
+    "id": 914,
+    "name": "LUM FAN - 600 mm Kraft C.F Cof Brown",
+    "groupId": 86,
+    "companyId": 14
+  },
+  {
+    "id": 915,
+    "name": "LUM FAN - 600 mm Kraft C.F Ivory",
+    "groupId": 86,
+    "companyId": 14
+  },
+  {
+    "id": 916,
+    "name": "LUM FAN - 600 mm Kraft White",
+    "groupId": 86,
+    "companyId": 14
+  },
+  {
+    "id": 917,
+    "name": "LUM FAN - 600mm Lum Petalair Brown",
+    "groupId": 86,
+    "companyId": 14
+  },
+  {
+    "id": 918,
+    "name": "LUM FAN - 600 mm Lum Rapid C.F Pearl",
+    "groupId": 86,
+    "companyId": 14
+  },
+  {
+    "id": 919,
+    "name": "LUM FAN - 600 mm Rapid C.Fan Cherry",
+    "groupId": 86,
+    "companyId": 14
+  },
+  {
+    "id": 920,
+    "name": "LUM FAN - 600 mm Rapid C.F Chest",
+    "groupId": 86,
+    "companyId": 14
+  },
+  {
+    "id": 921,
+    "name": "LUM FAN - 900mm Audie C.Fan Cocoa Brown",
+    "groupId": 86,
+    "companyId": 14
+  },
+  {
+    "id": 922,
+    "name": "LUM FAN - 900mm Audie C.Fan Mirage White",
+    "groupId": 86,
+    "companyId": 14
+  },
+  {
+    "id": 923,
+    "name": "LUM FAN - 900 mm Luminous Rapid C.F Cherr",
+    "groupId": 86,
+    "companyId": 14
+  },
+  {
+    "id": 924,
+    "name": "LUM FAN - 900 mm Luminous Rapid C.F Chest",
+    "groupId": 86,
+    "companyId": 14
+  },
+  {
+    "id": 925,
+    "name": "LUM FAN - 900 mm Rapid C.Fan Cherry Red",
+    "groupId": 86,
+    "companyId": 14
+  },
+  {
+    "id": 926,
+    "name": "LUM FAN - 150 mm Lum Vento Axial Fan",
+    "groupId": 87,
+    "companyId": 14
+  },
+  {
+    "id": 927,
+    "name": "LUM FAN - 150 mm Vento Dlx V.F M Wh",
+    "groupId": 87,
+    "companyId": 14
+  },
+  {
+    "id": 928,
+    "name": "LUM FAN - 200 mm Vento Dlx V.F M Wh",
+    "groupId": 87,
+    "companyId": 14
+  },
+  {
+    "id": 929,
+    "name": "LUM FAN - 230 mm Fresher Ventilation Fan WG",
+    "groupId": 87,
+    "companyId": 14
+  },
+  {
+    "id": 930,
+    "name": "LUM FAN - 230 mm Vento V.F Wg",
+    "groupId": 87,
+    "companyId": 14
+  },
+  {
+    "id": 931,
+    "name": "LUM FAN - 230mm Vento V.F Wg Hs",
+    "groupId": 87,
+    "companyId": 14
+  },
+  {
+    "id": 932,
+    "name": "LUM FAN - 250 mm  Vento Dlx V.F M Wh",
+    "groupId": 87,
+    "companyId": 14
+  },
+  {
+    "id": 933,
+    "name": "LUM FAN - 300 mm Vento V.F Wg",
+    "groupId": 87,
+    "companyId": 14
+  },
+  {
+    "id": 934,
+    "name": "LUM FAN - 400 mm Lum Auster Pedestal Fan",
+    "groupId": 88,
+    "companyId": 14
+  },
+  {
+    "id": 935,
+    "name": "LUM FAN - 400 mm Lum Breeza Pedestal Fan",
+    "groupId": 88,
+    "companyId": 14
+  },
+  {
+    "id": 936,
+    "name": "LUM FAN - 400 mm Lum Fanfare Pedestal Fan",
+    "groupId": 88,
+    "companyId": 14
+  },
+  {
+    "id": 937,
+    "name": "LUM FAN - 400 mm Mojo Pedestal Fan",
+    "groupId": 88,
+    "companyId": 14
+  },
+  {
+    "id": 938,
+    "name": "LUM FAN - 400 mm Mojo  Pedestal Fan H.S Butter",
+    "groupId": 88,
+    "companyId": 14
+  },
+  {
+    "id": 939,
+    "name": "LUM FAN - 400 mm Mojo Pedestal Fan HSmilk",
+    "groupId": 88,
+    "companyId": 14
+  },
+  {
+    "id": 940,
+    "name": "LUM FAN - 400 mm Mojo Peestal Fan HS Butter",
+    "groupId": 88,
+    "companyId": 14
+  },
+  {
+    "id": 941,
+    "name": "LUM FAN - 400mm Mojo Plus Pedestal Fan HS White",
+    "groupId": 88,
+    "companyId": 14
+  },
+  {
+    "id": 942,
+    "name": "LUM FAN - 450 mm Windfare Pedestal Fan",
+    "groupId": 88,
+    "companyId": 14
+  },
+  {
+    "id": 943,
+    "name": "LUM FAN - 500 mm Farrata Pedestal Fan",
+    "groupId": 88,
+    "companyId": 14
+  },
+  {
+    "id": 944,
+    "name": "LUM FAN - 230 mm Buddy Multi Aqua Blue",
+    "groupId": 89,
+    "companyId": 14
+  },
+  {
+    "id": 945,
+    "name": "LUM FAN - 230 mm Buddy Multi Cherry Red",
+    "groupId": 89,
+    "companyId": 14
+  },
+  {
+    "id": 946,
+    "name": "LUM FAN - 230 mm Buddy Multi Olive Champagne",
+    "groupId": 89,
+    "companyId": 14
+  },
+  {
+    "id": 947,
+    "name": "LUM FAN - 230 mm Buddy Multi Purpose RO",
+    "groupId": 89,
+    "companyId": 14
+  },
+  {
+    "id": 948,
+    "name": "LUM FAN - 300 mm Buddy Cabin Fan",
+    "groupId": 89,
+    "companyId": 14
+  },
+  {
+    "id": 949,
+    "name": "LUM FAN - 400 mm Beat Table Fan",
+    "groupId": 90,
+    "companyId": 14
+  },
+  {
+    "id": 950,
+    "name": "LUM FAN - 400 mm Beat Table Fan High Speed",
+    "groupId": 90,
+    "companyId": 14
+  },
+  {
+    "id": 951,
+    "name": "LUM FAN - 400 mm FanfareTables Fan",
+    "groupId": 90,
+    "companyId": 14
+  },
+  {
+    "id": 952,
+    "name": "LUM FAN - 400 mm Mojo Plus Table Fan Burgundy",
+    "groupId": 90,
+    "companyId": 14
+  },
+  {
+    "id": 953,
+    "name": "LUM FAN - 400 mm Mojo Plus Table Fan Hs White",
+    "groupId": 90,
+    "companyId": 14
+  },
+  {
+    "id": 954,
+    "name": "LUM FAN - 400 mm Mojo Table Fan",
+    "groupId": 90,
+    "companyId": 14
+  },
+  {
+    "id": 955,
+    "name": "LUM FAN - 400 mm Mojo Table Fan Hs Butter",
+    "groupId": 90,
+    "companyId": 14
+  },
+  {
+    "id": 956,
+    "name": "LUM FAN - 300 mm Mojo Wall Fan HS Butter",
+    "groupId": 91,
+    "companyId": 14
+  },
+  {
+    "id": 957,
+    "name": "LUM FAN - 300 mm Mojo Wall Fan HS Milk",
+    "groupId": 91,
+    "companyId": 14
+  },
+  {
+    "id": 958,
+    "name": "LUM FAN - 400 mm Fanfare Wall Fan",
+    "groupId": 91,
+    "companyId": 14
+  },
+  {
+    "id": 959,
+    "name": "LUM FAN - 400 mm Lum Fanfare Wall Fan",
+    "groupId": 91,
+    "companyId": 14
+  },
+  {
+    "id": 960,
+    "name": "LUM FAN - 400 mm Mojo Wall Fan Butter",
+    "groupId": 91,
+    "companyId": 14
+  },
+  {
+    "id": 961,
+    "name": "LUM FAN - 400 mm Mojo Wall Fan HS W",
+    "groupId": 91,
+    "companyId": 14
+  },
+  {
+    "id": 962,
+    "name": "LUM FAN - 400 mm Mojo Wall Fan Milk",
+    "groupId": 91,
+    "companyId": 14
+  },
+  {
+    "id": 963,
+    "name": "LUM FAN - 450 mm Windfare Wall Fan",
+    "groupId": 91,
+    "companyId": 14
+  },
+  {
+    "id": 964,
+    "name": "LL - Lum 0.5w LED ECO B22D Blue",
+    "groupId": 92,
+    "companyId": 15
+  },
+  {
+    "id": 965,
+    "name": "LL - Lum 0.5w LED ECO B22D Green",
+    "groupId": 92,
+    "companyId": 15
+  },
+  {
+    "id": 966,
+    "name": "LL - Lum 0.5w LED ECO B22D White",
+    "groupId": 92,
+    "companyId": 15
+  },
+  {
+    "id": 967,
+    "name": "LL - Lum 0.5w LED ECO B22D Yellow",
+    "groupId": 92,
+    "companyId": 15
+  },
+  {
+    "id": 968,
+    "name": "LL - Lum 5w ECO B22D CDL",
+    "groupId": 92,
+    "companyId": 15
+  },
+  {
+    "id": 969,
+    "name": "LL - Lum 7w ECO B22D CDL",
+    "groupId": 92,
+    "companyId": 15
+  },
+  {
+    "id": 970,
+    "name": "LL - Lum 9w LED ECO B22D CDL",
+    "groupId": 92,
+    "companyId": 15
+  },
+  {
+    "id": 971,
+    "name": "LL - Lum 12 W Led B22D CDL",
+    "groupId": 92,
+    "companyId": 15
+  },
+  {
+    "id": 972,
+    "name": "LL - Lum 15 W (Shine PRO B22D)",
+    "groupId": 92,
+    "companyId": 15
+  },
+  {
+    "id": 973,
+    "name": "LL - Lum 18w LED E01 4FT CDL",
+    "groupId": 92,
+    "companyId": 15
+  },
+  {
+    "id": 974,
+    "name": "LL - Lum 20w LED P01 4FT CDL",
+    "groupId": 92,
+    "companyId": 15
+  },
+  {
+    "id": 975,
+    "name": "LL - Lum 26W (Blaze Pro B22D)",
+    "groupId": 92,
+    "companyId": 15
+  },
+  {
+    "id": 976,
+    "name": "LL - Lum 36W (Blaze Pro B22D)",
+    "groupId": 92,
+    "companyId": 15
+  },
+  {
+    "id": 977,
+    "name": "LL - Lum 45W (Blaze Pro B22D)",
+    "groupId": 92,
+    "companyId": 15
+  },
+  {
+    "id": 978,
+    "name": "LW - Fr1cms 10sqmm 1100 Bl 90mm",
+    "groupId": 93,
+    "companyId": 16
+  },
+  {
+    "id": 979,
+    "name": "LW - FR1CMS 10SQmm 1100 GR 90mm",
+    "groupId": 93,
+    "companyId": 16
+  },
+  {
+    "id": 980,
+    "name": "LW - Fr1cms 10sqmm 1100 RD 90M",
+    "groupId": 93,
+    "companyId": 16
+  },
+  {
+    "id": 981,
+    "name": "LW - FR1CMS 10SQMM 1100 YL 90M",
+    "groupId": 93,
+    "companyId": 16
+  },
+  {
+    "id": 982,
+    "name": "LW - FR1CMS 1.5 1100V  BK 90M :1721",
+    "groupId": 94,
+    "companyId": 16
+  },
+  {
+    "id": 983,
+    "name": "LW - FR1CMS 1.5 1100V BL : 1721",
+    "groupId": 94,
+    "companyId": 16
+  },
+  {
+    "id": 984,
+    "name": "LW - FR1CMS 1.5 1100V  GR90M  : 1721",
+    "groupId": 94,
+    "companyId": 16
+  },
+  {
+    "id": 985,
+    "name": "LW - FR1CMS 1.5 1100V  RED 90M  : 1721",
+    "groupId": 94,
+    "companyId": 16
+  },
+  {
+    "id": 986,
+    "name": "LW - FR1CMS 1.5 1100V  YL 90M  : 1721",
+    "groupId": 94,
+    "companyId": 16
+  },
+  {
+    "id": 987,
+    "name": "LW - FR1CMS6.0 1100V BK90M 6840",
+    "groupId": 95,
+    "companyId": 16
+  },
+  {
+    "id": 988,
+    "name": "LW - FR1CMS 6.0SQMM 1100 BL 90M:6840",
+    "groupId": 95,
+    "companyId": 16
+  },
+  {
+    "id": 989,
+    "name": "LW - FR1CMS 6.0SQMM 1100 YL 90M:6840",
+    "groupId": 95,
+    "companyId": 16
+  },
+  {
+    "id": 990,
+    "name": "LW - Frlsh1cms 1.0 BK 180m Mrp:2642",
+    "groupId": 96,
+    "companyId": 16
+  },
+  {
+    "id": 991,
+    "name": "LW  - Frlsh1cms 1.0 Sqmm  Bl 180m",
+    "groupId": 96,
+    "companyId": 16
+  },
+  {
+    "id": 992,
+    "name": "LW - Frlsh1cms 1.5 Sqmm Bk 180m",
+    "groupId": 97,
+    "companyId": 16
+  },
+  {
+    "id": 993,
+    "name": "LW - Frlsh1cms 1.5Sqmm Bl 180M",
+    "groupId": 97,
+    "companyId": 16
+  },
+  {
+    "id": 994,
+    "name": "LW - Frlsh1cms 1.5 Sqmm Gr 180m",
+    "groupId": 97,
+    "companyId": 16
+  },
+  {
+    "id": 995,
+    "name": "LW - Frlsh1cms 1.5 Sqmm Rd 180m",
+    "groupId": 97,
+    "companyId": 16
+  },
+  {
+    "id": 996,
+    "name": "LW - Frlsh1cms1.5Sqmm Yl 180m",
+    "groupId": 97,
+    "companyId": 16
+  },
+  {
+    "id": 997,
+    "name": "MK - AUTOMATIC VOLT STAB 2090",
+    "groupId": 98,
+    "companyId": 17
+  },
+  {
+    "id": 998,
+    "name": "MK - Digital Volt EM 4170D+ (4160)",
+    "groupId": 98,
+    "companyId": 17
+  },
+  {
+    "id": 999,
+    "name": "MK - DIGITAL VOLT. STAB. EM 4130+",
+    "groupId": 98,
+    "companyId": 17
+  },
+  {
+    "id": 1000,
+    "name": "MK - DIGITAL VOLT. STAB EM 4150+",
+    "groupId": 98,
+    "companyId": 17
+  },
+  {
+    "id": 1001,
+    "name": "MK - Digital Volt  Stab EM 4160+",
+    "groupId": 98,
+    "companyId": 17
+  },
+  {
+    "id": 1002,
+    "name": "MK -  DIGITAL VOLT. STAB EM 4170",
+    "groupId": 98,
+    "companyId": 17
+  },
+  {
+    "id": 1003,
+    "name": "MK - DIGITAL VOLT STAB EM 5130+",
+    "groupId": 98,
+    "companyId": 17
+  },
+  {
+    "id": 1004,
+    "name": "MK - DIGITAL VOLT. STAB EM 5170+",
+    "groupId": 98,
+    "companyId": 17
+  },
+  {
+    "id": 1005,
+    "name": "MK - DIGITAL VOLT. STAB EMR 2013",
+    "groupId": 98,
+    "companyId": 17
+  },
+  {
+    "id": 1006,
+    "name": "MK - DIGITAL VOLT. STAB EMT 1390+",
+    "groupId": 98,
+    "companyId": 17
+  },
+  {
+    "id": 1007,
+    "name": "SC - DB 6W TPN DD ( EZ9HTD06F )",
+    "groupId": 99,
+    "companyId": 18
+  },
+  {
+    "id": 1008,
+    "name": "SC - Easy9 DB 12W SPN DD",
+    "groupId": 99,
+    "companyId": 18
+  },
+  {
+    "id": 1009,
+    "name": "SC - Easy9 Db 4 Way TPN Dd(Ez9htd04F)",
+    "groupId": 99,
+    "companyId": 18
+  },
+  {
+    "id": 1010,
+    "name": "SC - Easy 9 DB 6W SPN DD",
+    "groupId": 99,
+    "companyId": 18
+  },
+  {
+    "id": 1011,
+    "name": "SC - Easy9 DB 8W SPN DD",
+    "groupId": 99,
+    "companyId": 18
+  },
+  {
+    "id": 1012,
+    "name": "SC - SPN 16 Way DD NeoBre Ak DB",
+    "groupId": 99,
+    "companyId": 18
+  },
+  {
+    "id": 1013,
+    "name": "SC -Ez9HTD12F Easy 9 DB 12WTPN DD",
+    "groupId": 99,
+    "companyId": 18
+  },
+  {
+    "id": 1014,
+    "name": "SC - New Break 4 Way",
+    "groupId": 100,
+    "companyId": 18
+  },
+  {
+    "id": 1015,
+    "name": "SC - P0701 1-2M Grid & 1M Cover Frame",
+    "groupId": 101,
+    "companyId": 18
+  },
+  {
+    "id": 1016,
+    "name": "SC - P0702 1-2M Grid & 2 M Cover Frame",
+    "groupId": 101,
+    "companyId": 18
+  },
+  {
+    "id": 1017,
+    "name": "SC - P0703 3M Grid & 3M Cover Frame",
+    "groupId": 101,
+    "companyId": 18
+  },
+  {
+    "id": 1018,
+    "name": "SC - P0704 4M Grid & 4m Cover Frame",
+    "groupId": 101,
+    "companyId": 18
+  },
+  {
+    "id": 1019,
+    "name": "SC - P0706 6M Grid & 6M Cover Frame",
+    "groupId": 101,
+    "companyId": 18
+  },
+  {
+    "id": 1020,
+    "name": "SC - P0708 8M Grid &8M Cover Frame-Linear",
+    "groupId": 101,
+    "companyId": 18
+  },
+  {
+    "id": 1021,
+    "name": "SC - P0712 12M Grid &12M Cover Frame",
+    "groupId": 101,
+    "companyId": 18
+  },
+  {
+    "id": 1022,
+    "name": "SC - P0718 18M Grid & 18M Cover Frame",
+    "groupId": 101,
+    "companyId": 18
+  },
+  {
+    "id": 1023,
+    "name": "Sc - 2p 40A ISOLATOR",
+    "groupId": 102,
+    "companyId": 18
+  },
+  {
+    "id": 1024,
+    "name": "SC - 2p 63A ISOLATOR",
+    "groupId": 102,
+    "companyId": 18
+  },
+  {
+    "id": 1025,
+    "name": "SC - 3P 40A Isolator",
+    "groupId": 102,
+    "companyId": 18
+  },
+  {
+    "id": 1026,
+    "name": "SC - 4p 40A ISOLATOR",
+    "groupId": 102,
+    "companyId": 18
+  },
+  {
+    "id": 1027,
+    "name": "SC - 4p 63A ISOLATOR",
+    "groupId": 102,
+    "companyId": 18
+  },
+  {
+    "id": 1028,
+    "name": "SC - 1p 10A C MCB",
+    "groupId": 103,
+    "companyId": 18
+  },
+  {
+    "id": 1029,
+    "name": "SC - 1p 16A C MCB",
+    "groupId": 103,
+    "companyId": 18
+  },
+  {
+    "id": 1030,
+    "name": "SC - 1p 20A C MCB",
+    "groupId": 103,
+    "companyId": 18
+  },
+  {
+    "id": 1031,
+    "name": "SC - 1p 25A C MCB",
+    "groupId": 103,
+    "companyId": 18
+  },
+  {
+    "id": 1032,
+    "name": "SC - 1p 32A C MCB",
+    "groupId": 103,
+    "companyId": 18
+  },
+  {
+    "id": 1033,
+    "name": "SC - 1P 6A C MCB",
+    "groupId": 103,
+    "companyId": 18
+  },
+  {
+    "id": 1034,
+    "name": "SC - 2P 10A C MCB",
+    "groupId": 103,
+    "companyId": 18
+  },
+  {
+    "id": 1035,
+    "name": "SC - 2P 16A C MCB",
+    "groupId": 103,
+    "companyId": 18
+  },
+  {
+    "id": 1036,
+    "name": "SC - 2P 20A C MCB",
+    "groupId": 103,
+    "companyId": 18
+  },
+  {
+    "id": 1037,
+    "name": "SC - 2p 25A C MCB",
+    "groupId": 103,
+    "companyId": 18
+  },
+  {
+    "id": 1038,
+    "name": "SC - 2p 32A C MCB",
+    "groupId": 103,
+    "companyId": 18
+  },
+  {
+    "id": 1039,
+    "name": "SC - 2p 63A C MCB MRP:996",
+    "groupId": 103,
+    "companyId": 18
+  },
+  {
+    "id": 1040,
+    "name": "SC - 2p 6A  C MCB Easy 9",
+    "groupId": 103,
+    "companyId": 18
+  },
+  {
+    "id": 1041,
+    "name": "SC -3P 06A C MCB",
+    "groupId": 103,
+    "companyId": 18
+  },
+  {
+    "id": 1042,
+    "name": "SC - 3P 10A C MCB",
+    "groupId": 103,
+    "companyId": 18
+  },
+  {
+    "id": 1043,
+    "name": "SC - 3P 25A C MCB",
+    "groupId": 103,
+    "companyId": 18
+  },
+  {
+    "id": 1044,
+    "name": "SC - 3P 32A C MCB",
+    "groupId": 103,
+    "companyId": 18
+  },
+  {
+    "id": 1045,
+    "name": "SC - 3P 40A C MCB",
+    "groupId": 103,
+    "companyId": 18
+  },
+  {
+    "id": 1046,
+    "name": "SC - 4P 06AM Easy 9 MCB",
+    "groupId": 103,
+    "companyId": 18
+  },
+  {
+    "id": 1047,
+    "name": "SC - 4P 10A C MCB",
+    "groupId": 103,
+    "companyId": 18
+  },
+  {
+    "id": 1048,
+    "name": "SC - 4P 16A C MCB",
+    "groupId": 103,
+    "companyId": 18
+  },
+  {
+    "id": 1049,
+    "name": "SC - 4P 25A C MCB",
+    "groupId": 103,
+    "companyId": 18
+  },
+  {
+    "id": 1050,
+    "name": "SC - P 16A C MCB",
+    "groupId": 103,
+    "companyId": 18
+  },
+  {
+    "id": 1051,
+    "name": "SC - GE0102 Metal Box 1 & 2 Module-0.8mm",
+    "groupId": 104,
+    "companyId": 18
+  },
+  {
+    "id": 1052,
+    "name": "SC - GE0103 Metal Box 3 Module-0.8mm",
+    "groupId": 104,
+    "companyId": 18
+  },
+  {
+    "id": 1053,
+    "name": "SC - GE0104 Metal Box 4 Module-0.8mm",
+    "groupId": 104,
+    "companyId": 18
+  },
+  {
+    "id": 1054,
+    "name": "SC - GR1106 Metal Box 6 Module",
+    "groupId": 104,
+    "companyId": 18
+  },
+  {
+    "id": 1055,
+    "name": "SC - GR1108 Metal Box 8 Module Linear -1mm",
+    "groupId": 104,
+    "companyId": 18
+  },
+  {
+    "id": 1056,
+    "name": "SC - GR1112 Metal Box 12 Module",
+    "groupId": 104,
+    "companyId": 18
+  },
+  {
+    "id": 1057,
+    "name": "SC - GR1118 Metal Box 18 Module",
+    "groupId": 104,
+    "companyId": 18
+  },
+  {
+    "id": 1058,
+    "name": "SC - 2P 25A 30ma RCCB",
+    "groupId": 105,
+    "companyId": 18
+  },
+  {
+    "id": 1059,
+    "name": "SC - 2p 40A 10ma RCCB",
+    "groupId": 105,
+    "companyId": 18
+  },
+  {
+    "id": 1060,
+    "name": "SC - 2p 40A 30mA RCCB",
+    "groupId": 105,
+    "companyId": 18
+  },
+  {
+    "id": 1061,
+    "name": "SC - 2p 63A 30mA RCCB",
+    "groupId": 105,
+    "companyId": 18
+  },
+  {
+    "id": 1062,
+    "name": "SC - 4p 40A 30mA RCCB",
+    "groupId": 105,
+    "companyId": 18
+  },
+  {
+    "id": 1063,
+    "name": "SC - 4p 63A 10MA RCCB",
+    "groupId": 105,
+    "companyId": 18
+  },
+  {
+    "id": 1064,
+    "name": "SC - P3100 Step Type Fan Regulator (1M)",
+    "groupId": 106,
+    "companyId": 18
+  },
+  {
+    "id": 1065,
+    "name": "SC - P3200 Step Type Fan Regulator (2M)",
+    "groupId": 106,
+    "companyId": 18
+  },
+  {
+    "id": 1066,
+    "name": "SC - P2005 10A 2/3Pin Socket O Utlet With Shutter",
+    "groupId": 107,
+    "companyId": 18
+  },
+  {
+    "id": 1067,
+    "name": "SC - P2010 13A Multi Pin Socket Outlet With Shutter",
+    "groupId": 107,
+    "companyId": 18
+  },
+  {
+    "id": 1068,
+    "name": "SC - P2106 10A/16A 3-Pin Socket Outlet With Shutter",
+    "groupId": 107,
+    "companyId": 18
+  },
+  {
+    "id": 1069,
+    "name": "SC - P4011 RJ 11 Tel Outlet With Shuttered",
+    "groupId": 107,
+    "companyId": 18
+  },
+  {
+    "id": 1070,
+    "name": "SC - 6A 2-Way Switch",
+    "groupId": 108,
+    "companyId": 18
+  },
+  {
+    "id": 1071,
+    "name": "SC - P1001 10AX 1 Way Switch",
+    "groupId": 108,
+    "companyId": 18
+  },
+  {
+    "id": 1072,
+    "name": "SC - P1002 10AX 2 Way Switch",
+    "groupId": 108,
+    "companyId": 18
+  },
+  {
+    "id": 1073,
+    "name": "Sc - P1005 10A Bell Push Switch",
+    "groupId": 108,
+    "companyId": 18
+  },
+  {
+    "id": 1074,
+    "name": "SC - P1101 16AX 1 Way Switch",
+    "groupId": 108,
+    "companyId": 18
+  },
+  {
+    "id": 1075,
+    "name": "SC - P2232 16AX 1 Way Switch (2M)",
+    "groupId": 108,
+    "companyId": 18
+  },
+  {
+    "id": 1076,
+    "name": "SC - P1181 16AX 1 Way Switch With Indicator Lamp",
+    "groupId": 108,
+    "companyId": 18
+  },
+  {
+    "id": 1077,
+    "name": "SC - P4500 Tv Socket",
+    "groupId": 108,
+    "companyId": 18
+  },
+  {
+    "id": 1078,
+    "name": "SC - Ap 20",
+    "groupId": 108,
+    "companyId": 18
+  },
+  {
+    "id": 1079,
+    "name": "SC - As 20",
+    "groupId": 108,
+    "companyId": 18
+  },
+  {
+    "id": 1080,
+    "name": "SC - P0001 Blank Off Unit (1M)",
+    "groupId": 108,
+    "companyId": 18
+  },
+  {
+    "id": 1081,
+    "name": "SC - P1120 20A DP Switch With Indicator Lamp",
+    "groupId": 108,
+    "companyId": 18
+  },
+  {
+    "id": 1082,
+    "name": "SC - P1132 32A DP Switch With Indicator Lamp",
+    "groupId": 108,
+    "companyId": 18
+  },
+  {
+    "id": 1083,
+    "name": "SE-217BT",
+    "groupId": 109,
+    "companyId": 19
+  },
+  {
+    "id": 1084,
+    "name": "SE-333BT",
+    "groupId": 109,
+    "companyId": 19
+  },
+  {
+    "id": 1085,
+    "name": "SE-5045",
+    "groupId": 109,
+    "companyId": 19
+  },
+  {
+    "id": 1086,
+    "name": "SE-5065",
+    "groupId": 109,
+    "companyId": 19
+  },
+  {
+    "id": 1087,
+    "name": "SE-5075BT",
+    "groupId": 109,
+    "companyId": 19
+  },
+  {
+    "id": 1088,
+    "name": "SE-6045",
+    "groupId": 109,
+    "companyId": 19
+  },
+  {
+    "id": 1089,
+    "name": "SE-7777BT",
+    "groupId": 109,
+    "companyId": 19
+  },
+  {
+    "id": 1090,
+    "name": "SE-216",
+    "groupId": 109,
+    "companyId": 19
+  },
+  {
+    "id": 1091,
+    "name": "TH - TW3263",
+    "groupId": 110,
+    "companyId": 19
+  },
+  {
+    "id": 1092,
+    "name": "TH - TX4075",
+    "groupId": 110,
+    "companyId": 19
+  },
+  {
+    "id": 1093,
+    "name": "TW2460",
+    "groupId": 110,
+    "companyId": 19
+  },
+  {
+    "id": 1094,
+    "name": "TW4065",
+    "groupId": 110,
+    "companyId": 19
+  },
+  {
+    "id": 1095,
+    "name": "TH - TX407Z",
+    "groupId": 111,
+    "companyId": 19
+  },
+  {
+    "id": 1096,
+    "name": "TX3271",
+    "groupId": 111,
+    "companyId": 19
+  },
+  {
+    "id": 1097,
+    "name": "TX5067",
+    "groupId": 111,
+    "companyId": 19
+  },
+  {
+    "id": 1098,
+    "name": "VEGO - Atom+'_3299",
+    "groupId": 112,
+    "companyId": 20
+  },
+  {
+    "id": 1099,
+    "name": "VEGO - Frost- 'i",
+    "groupId": 112,
+    "companyId": 20
+  },
+  {
+    "id": 1100,
+    "name": "VEGO - Frost_8799",
+    "groupId": 112,
+    "companyId": 20
+  },
+  {
+    "id": 1101,
+    "name": "VEGO - Glacier- 'i_3999",
+    "groupId": 112,
+    "companyId": 20
+  },
+  {
+    "id": 1102,
+    "name": "VEGO - Ice Box_5999",
+    "groupId": 112,
+    "companyId": 20
+  },
+  {
+    "id": 1103,
+    "name": "VEGO - Optima 3D- Trolley",
+    "groupId": 112,
+    "companyId": 20
+  },
+  {
+    "id": 1104,
+    "name": "VEGO - Optima 3D_9999",
+    "groupId": 112,
+    "companyId": 20
+  },
+  {
+    "id": 1105,
+    "name": "VEGO - Thunder_7499",
+    "groupId": 112,
+    "companyId": 20
+  }
+]
+}
+
+]
